@@ -1,0 +1,58 @@
+name: Auto Publish DevOps Post
+
+on:
+  schedule:
+    - cron: "0 14 * * *" # todos los días a las 14 UTC (puedes cambiar)
+  workflow_dispatch: # correr manualmente
+
+jobs:
+  autopost:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v4
+
+      - name: Install Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+
+      - name: Call AWS API (Bedrock Lambda)
+        id: callapi
+        run: |
+          RESPONSE=$(curl -s -X GET "https://09qocw7v2g.execute-api.us-east-1.amazonaws.com/prod/linkedin-post")
+          echo "api_response=$RESPONSE" >> $GITHUB_OUTPUT
+
+      - name: Parse API Response
+        id: parse
+        run: |
+          JSON='${{ steps.callapi.outputs.api_response }}'
+
+          TITLE=$(echo "$JSON" | jq -r '.title')
+          CONTENT=$(echo "$JSON" | jq -r '.linkedin_post')
+          DATE=$(date +'%Y-%m-%d')
+
+          FILE="posts/${DATE}-linkedin-auto.qmd"
+
+          echo "---" > $FILE
+          echo "title: \"$TITLE\"" >> $FILE
+          echo "date: \"$DATE\"" >> $FILE
+          echo "categories: [AWS, DevOps, Automation, AI]" >> $FILE
+          echo "---" >> $FILE
+          echo "" >> $FILE
+          echo "$CONTENT" >> $FILE
+          echo "" >> $FILE
+          echo "_Este post fue generado automáticamente usando AWS Lambda + Amazon Bedrock + GitHub Actions._" >> $FILE
+
+          echo "file_path=$FILE" >> $GITHUB_OUTPUT
+
+      - name: Render Quarto Website
+        run: |
+          quarto render
+
+      - name: Commit and Push Changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "📝 Auto-generated LinkedIn Post for ${{ steps.parse.outputs.file_path }}"
+          file_pattern: |
+            posts/*.qmd
+            docs/**/*.*

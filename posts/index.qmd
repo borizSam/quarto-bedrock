@@ -1,0 +1,7 @@
+---
+title: "Posts"
+listing:
+  contents: .
+  type: grid
+  sort: "date desc"
+---

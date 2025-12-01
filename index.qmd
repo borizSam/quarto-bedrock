@@ -1,7 +1,59 @@
 ---
-title: "quarto-bedrock"
+title: "Boris DevOps Lab"
+page-layout: full
 ---
 
-This is a Quarto website.
+<div class="devops-card">
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+# 🚀 Bienvenido a **Boris DevOps Lab**
+
+Plataforma experimental donde combino:
+
+- **AWS Lambda**
+- **Amazon Bedrock**
+- **APIs Serverless**
+- **Automatización inteligente**
+- **Observabilidad**
+- **n8n + GitHub Pages**
+- **Contenido generado automáticamente**
+
+Este sitio se actualiza mediante mi propia API.
+
+</div>
+
+---
+
+## 🔥 Demos
+
+<div class="devops-card">
+
+### 🧠 Generación de contenido con Bedrock (Live API)
+Pulsa el botón para pedir contenido a mi API:
+
+<button onclick="fetchContent()">Generar DevOps Tip</button>
+
+<pre id="api-output">Esperando respuesta...</pre>
+
+<script>
+async function fetchContent() {
+  const body = { topic: "DevOps Tip of the Day" };
+  const res = await fetch("https://TU_API_URL/generate", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify(body)
+  });
+  const data = await res.json();
+  document.getElementById("api-output").innerText = data.content;
+}
+</script>
+
+</div>
+
+---
+
+## 📚 Últimos Posts
+
+```{listing}
+posts
+type: grid
+contents: true

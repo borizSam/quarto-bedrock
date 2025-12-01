@@ -1,0 +1,10 @@
+---
+title: "{{title}}"
+date: "{{date}}"
+categories: ["DevOps", "Automation", "AI"]
+---
+
+{{content}}
+
+---
+_Post generado automáticamente usando AWS Lambda + Bedrock + GitHub Actions._

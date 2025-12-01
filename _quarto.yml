@@ -1,58 +1,43 @@
 project:
   type: website
-  output-dir: docs        # renderiza el sitio en /docs para GitHub Pages
+  output-dir: docs
 
 website:
-  title: "Mi Portafolio DevOps"
-  description: "Proyectos, posts y demos: Bedrock → Lambda → API → Automatizaciones"
-  site-url: "https://USERNAME.github.io/REPO"   # URL pública (opcional pero útil)
-  base-url: "/REPO/"     # necesario para que los assets y enlaces funcionen en GitHub Pages
+  title: "Boris DevOps Lab"
+  description: "Automatización • IA • Cloud • Pipelines • Bedrock → Lambda → API"
+  site-url: "https://USERNAME.github.io/REPO"
   favicon: images/favicon.ico
 
   navbar:
+    pinned: true
+    background: "#0A1A2F"
+    foreground: "white"
+
     left:
       - text: Home
         href: index.qmd
       - text: Blog
-        href: posts/
+        href: posts/index.qmd
+      - text: API Demo
+        href: api-demo.qmd
       - text: Projects
-        href: projects/
+        href: projects/index.qmd
+
     right:
       - icon: github
         href: https://github.com/USERNAME/REPO
+      - icon: rss
+        href: posts/index.xml
 
 format:
   html:
     theme:
-      light: flatly       # puedes cambiar por otro tema Quarto o personalizar
-      dark: darkly
-    code-fold: true
+      light: cosmo
+      dark: cyborg
+    css: styles.css
+    code-copy: true
     toc: true
-    toc-depth: 2
-    embed-resources: true
-    include-in-header: includes/head.html  # opcional: para meta tags, analytics, etc.
+    smooth-scroll: true
 
-execute:
-  echo: true
-  freeze: auto
-  cache: true
+search: true
 
-resources:
-  - images/
-
-project-options:
-  preview: true
-
-# Opcional: datos de autor y social (se muestran en algunos temas)
-author:
-  - name: "Tu Nombre"
-    url: "https://linkedin.com/in/TU_USUARIO"
-    email: "tu@correo.com"
-
-# Opcional: configuración para búsqueda y sitemap
-sitemap:
-  priority: 0.5
-  changefreq: weekly
-
-search:
-  enable: true

@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Boris DevOps Lab",
+    "section": "",
+    "text": "Plataforma experimental donde combino:\n\nAWS Lambda\nAmazon Bedrock\nAPIs Serverless\nAutomatización inteligente\nObservabilidad\nn8n + GitHub Pages\nContenido generado automáticamente\n\nEste sitio se actualiza mediante mi propia API."
+  },
+  {
+    "objectID": "index.html#demos",
+    "href": "index.html#demos",
+    "title": "Boris DevOps Lab",
+    "section": "🔥 Demos",
+    "text": "🔥 Demos\n\n🧠 Generación de contenido con Bedrock (Live API)\nPulsa el botón para pedir contenido a mi API:\n\nGenerar DevOps Tip\n\nEsperando respuesta..."
+  },
+  {
+    "objectID": "index.html#últimos-posts",
+    "href": "index.html#últimos-posts",
+    "title": "Boris DevOps Lab",
+    "section": "📚 Últimos Posts",
+    "text": "📚 Últimos Posts\nposts type: grid contents: true"
+  },
+  {
+    "objectID": "posts/post-template.html",
+    "href": "posts/post-template.html",
+    "title": "{{title}}",
+    "section": "",
+    "text": "{{content}}\n\nPost generado automáticamente usando AWS Lambda + Bedrock + GitHub Actions."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "posts/index.html",
+    "href": "posts/index.html",
+    "title": "Posts",
+    "section": "",
+    "text": "{{title}}\n\n\n\n\n\n\n\n\n\nInvalid Date\n\n\n\n\n\n\n\n\nNo matching items"
+  }
+]
