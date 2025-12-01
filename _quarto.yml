@@ -1,0 +1,58 @@
+project:
+  type: website
+  output-dir: docs        # renderiza el sitio en /docs para GitHub Pages
+
+website:
+  title: "Mi Portafolio DevOps"
+  description: "Proyectos, posts y demos: Bedrock → Lambda → API → Automatizaciones"
+  site-url: "https://USERNAME.github.io/REPO"   # URL pública (opcional pero útil)
+  base-url: "/REPO/"     # necesario para que los assets y enlaces funcionen en GitHub Pages
+  favicon: images/favicon.ico
+
+  navbar:
+    left:
+      - text: Home
+        href: index.qmd
+      - text: Blog
+        href: posts/
+      - text: Projects
+        href: projects/
+    right:
+      - icon: github
+        href: https://github.com/USERNAME/REPO
+
+format:
+  html:
+    theme:
+      light: flatly       # puedes cambiar por otro tema Quarto o personalizar
+      dark: darkly
+    code-fold: true
+    toc: true
+    toc-depth: 2
+    embed-resources: true
+    include-in-header: includes/head.html  # opcional: para meta tags, analytics, etc.
+
+execute:
+  echo: true
+  freeze: auto
+  cache: true
+
+resources:
+  - images/
+
+project-options:
+  preview: true
+
+# Opcional: datos de autor y social (se muestran en algunos temas)
+author:
+  - name: "Tu Nombre"
+    url: "https://linkedin.com/in/TU_USUARIO"
+    email: "tu@correo.com"
+
+# Opcional: configuración para búsqueda y sitemap
+sitemap:
+  priority: 0.5
+  changefreq: weekly
+
+search:
+  enable: true
