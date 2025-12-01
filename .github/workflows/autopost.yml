@@ -20,7 +20,7 @@ jobs:
         id: callapi
         run: |
           RESPONSE=$(curl --fail --silent --show-error \
-            https://09qocw7v2g.execute-api.us-east-1.amazonaws.com/prod/linkedin-post)
+            https://09oqcw7v2g.execute-api.us-east-1.amazonaws.com/prod/linkedin-post)
           echo "api_response=$RESPONSE" >> $GITHUB_OUTPUT
 
       - name: Parse API Response
