@@ -19,7 +19,8 @@ jobs:
       - name: Call AWS API (Bedrock Lambda)
         id: callapi
         run: |
-          RESPONSE=$(curl -s -X GET "https://09qocw7v2g.execute-api.us-east-1.amazonaws.com/prod/linkedin-post")
+          RESPONSE=$(curl --fail --silent --show-error \
+            https://09qocw7v2g.execute-api.us-east-1.amazonaws.com/prod/linkedin-post)
           echo "api_response=$RESPONSE" >> $GITHUB_OUTPUT
 
       - name: Parse API Response
