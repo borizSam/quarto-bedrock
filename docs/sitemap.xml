@@ -2,18 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://USERNAME.github.io/REPO/index.html</loc>
-    <lastmod>2025-12-01T10:03:43.183Z</lastmod>
+    <lastmod>2025-12-01T11:44:52.472Z</lastmod>
   </url>
   <url>
     <loc>https://USERNAME.github.io/REPO/posts/post-template.html</loc>
-    <lastmod>2025-12-01T10:06:55.360Z</lastmod>
+    <lastmod>2025-12-01T11:22:43.905Z</lastmod>
   </url>
   <url>
     <loc>https://USERNAME.github.io/REPO/about.html</loc>
     <lastmod>2025-12-01T09:56:03.191Z</lastmod>
   </url>
   <url>
+    <loc>https://USERNAME.github.io/REPO/posts/2025-12-01-linkedin-auto.html</loc>
+    <lastmod>2025-12-01T11:08:00.109Z</lastmod>
+  </url>
+  <url>
     <loc>https://USERNAME.github.io/REPO/posts/index.html</loc>
-    <lastmod>2025-12-01T10:19:47.720Z</lastmod>
+    <lastmod>2025-12-01T11:13:51.577Z</lastmod>
+  </url>
+  <url>
+    <loc>https://USERNAME.github.io/REPO/workflow.html</loc>
+    <lastmod>2025-12-01T11:40:06.132Z</lastmod>
+  </url>
+  <url>
+    <loc>https://USERNAME.github.io/REPO/api-demo.html</loc>
+    <lastmod>2025-12-01T11:47:04.061Z</lastmod>
   </url>
 </urlset>

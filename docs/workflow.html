@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Bedrock-IA - Blog DevOps</title>
+<title>Bedrock-IA - Workflow – Bedrock → Lambda → API → GitHub Actions → Blog</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,26 +23,24 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../">
-<link href="../images/favicon.ico" rel="icon">
-<script src="../site_libs/quarto-listing/list.min.js"></script>
-<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="../site_libs/quarto-html/quarto.js"></script>
-<script src="../site_libs/quarto-html/popper.min.js"></script>
-<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="../site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<link href="./images/favicon.ico" rel="icon">
+<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -70,68 +68,10 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-title','listing-description','listing-date','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
 <style>html{ scroll-behavior: smooth; }</style>
 
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="../styles.css">
+<link rel="stylesheet" href="styles.css">
 </head>
 
 <body class="nav-fixed">
@@ -141,7 +81,7 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="../index.html">
+    <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">Bedrock-IA</span>
     </a>
   </div>
@@ -152,20 +92,16 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../index.html"> 
-<span class="menu-text">Home</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link active" href="../posts/index.html" aria-current="page"> 
+    <a class="nav-link" href="./index.html"> 
 <span class="menu-text">Blog</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../api-demo.qmd"> 
+    <a class="nav-link" href="./api-demo.qmd"> 
 <span class="menu-text">API Demo</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../projects/index.qmd"> 
-<span class="menu-text">Projects</span></a>
+    <a class="nav-link active" href="./workflow.html" aria-current="page"> 
+<span class="menu-text">Workflow</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
@@ -175,7 +111,7 @@ window.Quarto = {
 <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="../posts/index.xml"> <i class="bi bi-rss" role="img">
+    <a class="nav-link" href="./posts/index.xml"> <i class="bi bi-rss" role="img">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
@@ -188,7 +124,7 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
@@ -196,21 +132,25 @@ window.Quarto = {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#blog-devops-automatizado-con-aws-bedrock" id="toc-blog-devops-automatizado-con-aws-bedrock" class="nav-link active" data-scroll-target="#blog-devops-automatizado-con-aws-bedrock">🧠 Blog DevOps — Automatizado con AWS + Bedrock</a></li>
+  <li><a href="#workflow-del-proyecto" id="toc-workflow-del-proyecto" class="nav-link active" data-scroll-target="#workflow-del-proyecto">🔁 Workflow del Proyecto</a>
+  <ul class="collapse">
+  <li><a href="#arquitectura-general" id="toc-arquitectura-general" class="nav-link" data-scroll-target="#arquitectura-general">🔧 Arquitectura General</a></li>
+  <li><a href="#flujo-resumido" id="toc-flujo-resumido" class="nav-link" data-scroll-target="#flujo-resumido">🧠 Flujo resumido:</a></li>
+  </ul></li>
   </ul>
 </nav>
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(2)</span></div><div class="category" data-category="AI">AI <span class="quarto-category-count">(2)</span></div><div class="category" data-category="AWS">AWS <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Automation">Automation <span class="quarto-category-count">(2)</span></div><div class="category" data-category="DevOps">DevOps <span class="quarto-category-count">(2)</span></div></div></div>
+    </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content column-page-left" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Blog DevOps</h1>
+<h1 class="title">Workflow – Bedrock → Lambda → API → GitHub Actions → Blog</h1>
 </div>
 
 
 
-<div class="quarto-title-meta">
+<div class="quarto-title-meta column-page-left">
 
     
   
@@ -222,96 +162,39 @@ window.Quarto = {
 </header>
 
 
-<section id="blog-devops-automatizado-con-aws-bedrock" class="level1">
-<h1>🧠 Blog DevOps — Automatizado con AWS + Bedrock</h1>
-<p>Bienvenido a mi blog técnico donde publico contenido generado automáticamente con:</p>
+<section id="workflow-del-proyecto" class="level1">
+<h1>🔁 Workflow del Proyecto</h1>
+<p>Aquí puedes ver el pipeline completo que genera y publica el contenido automáticamente.</p>
+<section id="arquitectura-general" class="level2">
+<h2 class="anchored" data-anchor-id="arquitectura-general">🔧 Arquitectura General</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/workflow.png" class="img-fluid figure-img"></p>
+<figcaption>Arquitectura del Workflow</figcaption>
+</figure>
+</div>
+<hr>
+</section>
+<section id="flujo-resumido" class="level2">
+<h2 class="anchored" data-anchor-id="flujo-resumido">🧠 Flujo resumido:</h2>
+<ol type="1">
+<li>GitHub Actions ejecuta un job diario.</li>
+<li>El job llama a tu API:
 <ul>
-<li>AWS Lambda<br>
-</li>
-<li>AWS Bedrock<br>
-</li>
-<li>API Gateway<br>
-</li>
-<li>GitHub Pages<br>
-</li>
-<li>Automatización DevOps</li>
-</ul>
-<p>Cada post es generado por IA y publicado automáticamente mediante mi pipeline CI/CD.</p>
-
+<li>API Gateway → Lambda → Bedrock.</li>
+</ul></li>
+<li>Bedrock genera un post técnico DevOps.</li>
+<li>GitHub Actions crea un archivo <code>.qmd</code>.</li>
+<li>El sitio Quarto se vuelve a renderizar.</li>
+<li>GitHub Pages publica automáticamente.</li>
+</ol>
+<hr>
 
 
 </section>
+</section>
 
-<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="AWS,DevOps,Automation,AI" data-listing-date-sort="1764543600000" data-listing-file-modified-sort="1764587280109" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="69">
-<a href="../posts/2025-12-01-linkedin-auto.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Introducing AWS Lambda Managed Instances: Serverless simplicity with EC2 flexibility
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('AWS'); return false;">
-AWS
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('DevOps'); return false;">
-DevOps
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Automation'); return false;">
-Automation
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('AI'); return false;">
-AI
-</div>
-</div>
-<div class="card-text listing-description">
-¡Anuncio emocionante! 🚀
-</div>
-<div class="card-attribution card-text-small end">
-<div class="listing-date">
-Dec 1, 2025
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="1" data-categories="DevOps,Automation,AI" data-listing-date-sort="NaN" data-listing-file-modified-sort="1764583615360" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="11">
-<a href="../posts/post-template.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-{{title}}
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('DevOps'); return false;">
-DevOps
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Automation'); return false;">
-Automation
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('AI'); return false;">
-AI
-</div>
-</div>
-<div class="card-text listing-description">
-{{content}}
-</div>
-<div class="card-attribution card-text-small end">
-<div class="listing-date">
-Invalid Date
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -848,5 +731,5 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 
 
 
-<script src="../site_libs/quarto-html/zenscroll-min.js"></script>
+<script src="site_libs/quarto-html/zenscroll-min.js"></script>
 </body></html>

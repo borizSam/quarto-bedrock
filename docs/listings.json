@@ -2,7 +2,14 @@
   {
     "listing": "/posts/index.html",
     "items": [
+      "/posts/2025-12-01-linkedin-auto.html",
       "/posts/post-template.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/posts/2025-12-01-linkedin-auto.html"
     ]
   }
 ]

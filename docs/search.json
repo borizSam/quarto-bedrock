@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Boris DevOps Lab",
+    "title": "Boris DevOps Lab – Blog",
     "section": "",
-    "text": "Plataforma experimental donde combino:\n\nAWS Lambda\nAmazon Bedrock\nAPIs Serverless\nAutomatización inteligente\nObservabilidad\nn8n + GitHub Pages\nContenido generado automáticamente\n\nEste sitio se actualiza mediante mi propia API."
+    "text": "Bienvenido a mi blog técnico generado automáticamente mediante IA y desplegado mediante CI/CD.\nAquí publico contenido sobre:\n\nAWS Lambda\n\nAmazon Bedrock\n\nAPIs Serverless\n\nObservabilidad\n\nAutomatización inteligente\n\nDevOps + Infra as Code"
   },
   {
     "objectID": "index.html#demos",
@@ -16,9 +16,9 @@
   {
     "objectID": "index.html#últimos-posts",
     "href": "index.html#últimos-posts",
-    "title": "Boris DevOps Lab",
-    "section": "📚 Últimos Posts",
-    "text": "📚 Últimos Posts\nposts type: grid contents: true"
+    "title": "Boris DevOps Lab – Blog",
+    "section": "",
+    "text": "::: {.blog-grid}\ncontents: posts type: grid sort: “date desc” limit: 12 grid-columns: 3 image-placeholder: “” fields: [image, title, description, date, categories] card-style: “border-radius: 12px; padding: 0; overflow: hidden;”"
   },
   {
     "objectID": "posts/post-template.html",
@@ -35,10 +35,45 @@
     "text": "About this site"
   },
   {
+    "objectID": "posts/2025-12-01-linkedin-auto.html",
+    "href": "posts/2025-12-01-linkedin-auto.html",
+    "title": "Introducing AWS Lambda Managed Instances: Serverless simplicity with EC2 flexibility",
+    "section": "",
+    "text": "¡Anuncio emocionante! 🚀\nPresentamos AWS Lambda Managed Instances: La simplicidad sin servidor con la flexibilidad de EC2.\n🔹Ejecuta tus funciones Lambda en instancias EC2 🔹Accede a hardware especializado 🔹Optimiza costos con modelos de precios de EC2 🔹AWS maneja toda la gestión de infraestructura\n¡Lo mejor de ambos mundos!\n#AWSLambda #Serverless #EC2 #InfraestructuraComoServicio #NubeTecnologica\n[Este post fue generado automáticamente con Amazon Bedrock IA – Fuente: https://aws.amazon.com/blogs/aws/feed/]\nEste post fue generado automáticamente usando AWS Lambda + Amazon Bedrock + GitHub Actions."
+  },
+  {
     "objectID": "posts/index.html",
     "href": "posts/index.html",
-    "title": "Posts",
+    "title": "Blog DevOps",
     "section": "",
-    "text": "{{title}}\n\n\n\n\n\n\n\n\n\nInvalid Date\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "🧠 Blog DevOps — Automatizado con AWS + Bedrock\nBienvenido a mi blog técnico donde publico contenido generado automáticamente con:\n\nAWS Lambda\n\nAWS Bedrock\n\nAPI Gateway\n\nGitHub Pages\n\nAutomatización DevOps\n\nCada post es generado por IA y publicado automáticamente mediante mi pipeline CI/CD.\n\n\n\n\n\n\n\n\n\n\n\n\nIntroducing AWS Lambda Managed Instances: Serverless simplicity with EC2 flexibility\n\n\n\nAWS\n\n\nDevOps\n\n\nAutomation\n\n\nAI\n\n\n\n\n\n\n\nDec 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n{{title}}\n\n\n\nDevOps\n\n\nAutomation\n\n\nAI\n\n\n\n\n\n\n\nInvalid Date\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "workflow.html",
+    "href": "workflow.html",
+    "title": "Workflow – Bedrock → Lambda → API → GitHub Actions → Blog",
+    "section": "",
+    "text": "Aquí puedes ver el pipeline completo que genera y publica el contenido automáticamente.\n\n\n\n\n\nArquitectura del Workflow\n\n\n\n\n\n\n\nGitHub Actions ejecuta un job diario.\nEl job llama a tu API:\n\nAPI Gateway → Lambda → Bedrock.\n\nBedrock genera un post técnico DevOps.\nGitHub Actions crea un archivo .qmd.\nEl sitio Quarto se vuelve a renderizar.\nGitHub Pages publica automáticamente."
+  },
+  {
+    "objectID": "workflow.html#arquitectura-general",
+    "href": "workflow.html#arquitectura-general",
+    "title": "Workflow – Bedrock → Lambda → API → GitHub Actions → Blog",
+    "section": "",
+    "text": "Arquitectura del Workflow"
+  },
+  {
+    "objectID": "workflow.html#flujo-resumido",
+    "href": "workflow.html#flujo-resumido",
+    "title": "Workflow – Bedrock → Lambda → API → GitHub Actions → Blog",
+    "section": "",
+    "text": "GitHub Actions ejecuta un job diario.\nEl job llama a tu API:\n\nAPI Gateway → Lambda → Bedrock.\n\nBedrock genera un post técnico DevOps.\nGitHub Actions crea un archivo .qmd.\nEl sitio Quarto se vuelve a renderizar.\nGitHub Pages publica automáticamente."
+  },
+  {
+    "objectID": "api-demo.html",
+    "href": "api-demo.html",
+    "title": "Demo API - JSON",
+    "section": "",
+    "text": "Objeto JSON Original\n{\n  \"title\": \"Introducing Amazon Route 53 Global Resolver for secure anycast DNS resolution (preview)\",\n  \"source\": \"https://aws.amazon.com/blogs/aws/feed/\",\n  \"link\": \"https://aws.amazon.com/blogs/aws/introducing-amazon-route-53-global-resolver-for-secure-anycast-dns-resolution-preview/\",\n  \"linkedin_post\": \"Atención profesionales de TI!\\n\n  \\nPresentamos Amazon Route 53 Global Resolver:\\n\n  - Resolución DNS segura y global\\n\n  - Gestión unificada de DNS híbrido\\n\n  - Reducción de la carga operativa\\n\n  \\nSimplifique su infraestructura DNS con:\\n\n  - Resolución anycast para dominios públicos y privados\\n\n  - Controles de seguridad consistentes\\n\n  \\nDescúbralo ahora.\\n\n  #AWSCloud #DNS #Seguridad #Anycast #HíbridoCloud\\n\\n\n  [Este post fue generado automáticamente con Amazon Bedrock IA – Fuente: https://aws.amazon.com/blogs/aws/feed/]\"\n}"
   }
 ]

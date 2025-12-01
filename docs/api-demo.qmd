@@ -1,0 +1,17 @@
+---
+title: "Demo API - Vista Bonita del JSON"
+format:
+  html:
+    theme: cosmo
+    toc: true
+---
+
+# Objeto JSON Original
+
+```json
+{
+  "title": "Introducing Amazon Route 53 Global Resolver for secure anycast DNS resolution (preview)",
+  "source": "https://aws.amazon.com/blogs/aws/feed/",
+  "link": "https://aws.amazon.com/blogs/aws/introducing-amazon-route-53-global-resolver-for-secure-anycast-dns-resolution-preview/",
+  "linkedin_post": "Atención profesionales de TI!\n\nPresentamos Amazon Route 53 Global Resolver:\n- Resolución DNS segura y global\n- Gestión unificada de DNS híbrido\n- Reducción de la carga operativa\n\nSimplifique su infraestructura DNS con:\n- Resolución anycast para dominios públicos y privados\n- Controles de seguridad consistentes\n\nDescúbralo ahora.\n#AWSCloud #DNS #Seguridad #Anycast #HíbridoCloud\n\n[Este post fue generado automáticamente con Amazon Bedrock IA – Fuente: https://aws.amazon.com/blogs/aws/feed/]"
+}

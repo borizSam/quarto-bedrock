@@ -1,0 +1,25 @@
+---
+title: "Workflow – Bedrock → Lambda → API → GitHub Actions → Blog"
+page-layout: full
+---
+
+# 🔁 Workflow del Proyecto
+
+Aquí puedes ver el pipeline completo que genera y publica el contenido automáticamente.
+
+## 🔧 Arquitectura General
+
+![Arquitectura del Workflow](images/workflow.png)
+
+---
+
+## 🧠 Flujo resumido:
+
+1. GitHub Actions ejecuta un job diario.
+2. El job llama a tu API:
+   - API Gateway → Lambda → Bedrock.
+3. Bedrock genera un post técnico DevOps.
+4. GitHub Actions crea un archivo `.qmd`.
+5. El sitio Quarto se vuelve a renderizar.
+6. GitHub Pages publica automáticamente.
+---

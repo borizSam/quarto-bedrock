@@ -1,59 +1,29 @@
 ---
-title: "Boris DevOps Lab"
+title: "Boris DevOps Lab – Blog"
 page-layout: full
+listing:
+  contents: posts
+  type: default
+  sort: "date desc"
+  categories: true
+  image-placeholder: ""
+  fields: [image, title, description, date, categories]
 ---
 
-<div class="devops-card">
+# 🧠 Boris DevOps Blog  
+### Automatizado con AWS + Bedrock + GitHub Actions 🚀
 
-# 🚀 Bienvenido a **Boris DevOps Lab**
+Bienvenido a mi blog técnico generado automáticamente mediante IA y desplegado mediante CI/CD.
 
-Plataforma experimental donde combino:
+Aquí publico contenido sobre:
 
-- **AWS Lambda**
-- **Amazon Bedrock**
-- **APIs Serverless**
-- **Automatización inteligente**
-- **Observabilidad**
-- **n8n + GitHub Pages**
-- **Contenido generado automáticamente**
-
-Este sitio se actualiza mediante mi propia API.
-
-</div>
-
----
-
-## 🔥 Demos
-
-<div class="devops-card">
-
-### 🧠 Generación de contenido con Bedrock (Live API)
-Pulsa el botón para pedir contenido a mi API:
-
-<button onclick="fetchContent()">Generar DevOps Tip</button>
-
-<pre id="api-output">Esperando respuesta...</pre>
-
-<script>
-async function fetchContent() {
-  const body = { topic: "DevOps Tip of the Day" };
-  const res = await fetch("https://TU_API_URL/generate", {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify(body)
-  });
-  const data = await res.json();
-  document.getElementById("api-output").innerText = data.content;
-}
-</script>
-
-</div>
+- AWS Lambda  
+- Amazon Bedrock  
+- APIs Serverless  
+- Observabilidad  
+- Automatización inteligente  
+- DevOps + Infra as Code  
 
 ---
 
-## 📚 Últimos Posts
-
-```{listing}
-posts
-type: grid
-contents: true
+## 📰 Últimos Posts

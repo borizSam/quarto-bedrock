@@ -3,10 +3,13 @@ project:
   output-dir: docs
 
 website:
-  title: "Boris DevOps Lab"
+  title: "Bedrock-IA"
   description: "Automatización • IA • Cloud • Pipelines • Bedrock → Lambda → API"
   site-url: "https://USERNAME.github.io/REPO"
   favicon: images/favicon.ico
+
+  # ⬇ Blog será la página inicial
+  page-navigation: true
 
   navbar:
     pinned: true
@@ -14,14 +17,12 @@ website:
     foreground: "white"
 
     left:
-      - text: Home
-        href: index.qmd
       - text: Blog
-        href: posts/index.qmd
+        href: index.qmd        # ahora el blog es la home
       - text: API Demo
         href: api-demo.qmd
-      - text: Projects
-        href: projects/index.qmd
+      - text: Workflow
+        href: workflow.qmd     # nueva página con tu diagrama
 
     right:
       - icon: github

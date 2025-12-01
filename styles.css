@@ -1,55 +1,61 @@
-/* css styles */
-/* Futuristic DevOps Theme */
 
-body {
-  background-color: #0d1117;
-  color: #e6edf3;
-  font-family: 'Inter', sans-serif;
-}
+---
 
-.navbar {
-  background: #0A1A2F !important;
-  padding: 0.8rem;
-  border-bottom: 1px solid #1f2937;
-}
+# 🎨 **2. Estilos personalizados estilo Hashnode / Dev.to**
 
-.navbar a {
-  font-weight: 600;
-}
+Crea o edita tu archivo `styles.css` e inserta esto:
 
-/* Title futuristic glow */
-h1, h2, h3 {
-  font-weight: 700;
-  text-shadow: 0px 0px 12px rgba(0, 255, 255, 0.3);
-}
-
-/* Code blocks */
-pre code {
-  background: #0A1B2E !important;
-  color: #00d1ff !important;
-  border-radius: 8px;
-  border: 1px solid #123456;
-}
-
-/* Cards */
-.devops-card {
-  background: #0A1525;
-  border: 1px solid #123456;
-  padding: 16px;
+```css
+/* BLOG GRID */
+.blog-grid .quarto-grid-item {
+  background: #0f1624;
   border-radius: 12px;
-  margin-bottom: 20px;
-  box-shadow: 0px 0px 20px rgba(0, 170, 255, 0.1);
-  transition: 0.2s;
+  padding: 16px;
+  border: 1px solid #1c2940;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
-.devops-card:hover {
-  transform: translateY(-4px);
-  box-shadow: 0px 0px 25px rgba(0, 200, 255, 0.3);
+.blog-grid .quarto-grid-item:hover {
+  transform: translateY(-6px);
+  box-shadow: 0px 6px 20px rgba(0, 0, 0, 0.4);
+  border-color: #00d4ff;
 }
 
-/* Futuristic button */
-button {
-  background: linear-gradient(90deg, #0099ff, #00f0ff);
-  color: white;
-  border: none;
-  padding:
+/* TITULOS */
+.blog-grid .quarto-grid-item h3 {
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: #ffffff;
+}
+
+/* DESCRIPCIÓN */
+.blog-grid .description {
+  font-size: 0.95rem;
+  color: #c9d1d9;
+}
+
+/* FECHA */
+.quarto-grid-item .metadata {
+  font-size: 0.8rem !important;
+  color: #9ab4d0;
+}
+
+/* CATEGORÍAS (TAGS) */
+.quarto-category {
+  background: #1b2a41;
+  color: #00eaff;
+  padding: 4px 10px;
+  border-radius: 20px;
+  font-size: 0.75rem;
+  margin-right: 6px;
+}
+
+/* IMAGEN DEL POST */
+.quarto-grid-item img {
+  width: 100%;
+  height: 160px;
+  object-fit: cover;
+  border-radius: 10px;
+  margin-bottom: 10px;
+  background-color: #0d1117;
+}
