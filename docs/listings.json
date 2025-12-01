@@ -9,6 +9,9 @@
   {
     "listing": "/index.html",
     "items": [
+      "/about.html",
+      "/api-demo.html",
+      "/workflow.html",
       "/posts/2025-12-01-linkedin-auto.html"
     ]
   }

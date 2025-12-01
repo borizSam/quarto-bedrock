@@ -1,29 +1,21 @@
 ---
-title: "Boris DevOps Lab – Blog"
+title: "Blog"
 page-layout: full
 listing:
-  contents: posts
-  type: default
+  contents: .
+  type: grid
   sort: "date desc"
-  categories: true
+  grid-columns: 3
   image-placeholder: ""
   fields: [image, title, description, date, categories]
 ---
 
-# 🧠 Boris DevOps Blog  
-### Automatizado con AWS + Bedrock + GitHub Actions 🚀
+# 📰 Últimos Posts
 
-Bienvenido a mi blog técnico generado automáticamente mediante IA y desplegado mediante CI/CD.
-
-Aquí publico contenido sobre:
-
-- AWS Lambda  
-- Amazon Bedrock  
-- APIs Serverless  
-- Observabilidad  
-- Automatización inteligente  
-- DevOps + Infra as Code  
-
----
-
-## 📰 Últimos Posts
+```{listing}
+contents: .
+type: grid
+sort: "date desc"
+grid-columns: 3
+image-placeholder: ""
+fields: [image, title, description, date, categories]

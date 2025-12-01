@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Boris DevOps Lab – Blog",
+    "title": "Blog",
     "section": "",
-    "text": "Bienvenido a mi blog técnico generado automáticamente mediante IA y desplegado mediante CI/CD.\nAquí publico contenido sobre:\n\nAWS Lambda\n\nAmazon Bedrock\n\nAPIs Serverless\n\nObservabilidad\n\nAutomatización inteligente\n\nDevOps + Infra as Code"
+    "text": "📰 Últimos Posts\ncontents: . type: grid sort: “date desc” grid-columns: 3 image-placeholder: “” fields: [image, title, description, date, categories]\n\n\n\n\n\n\n\n\n\n\n\n\n\nAbout\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDemo API - JSON\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWorkflow – Bedrock → Lambda → API → GitHub Actions → Blog\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAWS Partner Central now available in AWS Management Console\n\n\n\nAWS\n\n\nDevOps\n\n\nAutomation\n\n\nAI\n\n\n\n\n\n\n\nDec 1, 2025\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html#demos",
@@ -37,9 +37,9 @@
   {
     "objectID": "posts/2025-12-01-linkedin-auto.html",
     "href": "posts/2025-12-01-linkedin-auto.html",
-    "title": "Introducing AWS Lambda Managed Instances: Serverless simplicity with EC2 flexibility",
+    "title": "AWS Partner Central now available in AWS Management Console",
     "section": "",
-    "text": "¡Anuncio emocionante! 🚀\nPresentamos AWS Lambda Managed Instances: La simplicidad sin servidor con la flexibilidad de EC2.\n🔹Ejecuta tus funciones Lambda en instancias EC2 🔹Accede a hardware especializado 🔹Optimiza costos con modelos de precios de EC2 🔹AWS maneja toda la gestión de infraestructura\n¡Lo mejor de ambos mundos!\n#AWSLambda #Serverless #EC2 #InfraestructuraComoServicio #NubeTecnologica\n[Este post fue generado automáticamente con Amazon Bedrock IA – Fuente: https://aws.amazon.com/blogs/aws/feed/]\nEste post fue generado automáticamente usando AWS Lambda + Amazon Bedrock + GitHub Actions."
+    "text": "¿Eres un Socio de AWS? 🤝\nOptimiza tu experiencia con Partner Central en AWS Console 🚀 • Gestiona soluciones, oportunidades y listados en un solo lugar • Interfaz unificada con seguridad de grado empresarial • Agiliza tu transición de cliente a Socio\n#AWSPartners #PartnerCentral #AWSConsole #EficienciaEmpresarial\n[Este post fue generado automáticamente con Amazon Bedrock IA – Fuente: https://aws.amazon.com/blogs/aws/feed/]\nEste post fue generado automáticamente usando AWS Lambda + Amazon Bedrock + GitHub Actions."
   },
   {
     "objectID": "posts/index.html",
