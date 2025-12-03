@@ -1,0 +1,19 @@
+---
+title: "New capabilities to optimize costs and improve scalability on Amazon RDS for SQL Server and Oracle"
+date: "2025-12-03"
+categories: [AWS, DevOps, Automation, AI]
+---
+
+¡Optimiza tus cargas de trabajo de bases de datos con las nuevas capacidades de Amazon RDS!
+
+🔸Edición de Desarrollador para SQL Server
+🔸Instancias M7i/R7i con CPU optimizada
+🔸Opciones de almacenamiento de hasta 256 TiB
+
+Mejora el rendimiento y reduce costos en tus entornos de desarrollo, pruebas y producción.
+
+#AmazonRDS #SQLServer #Oracle #BasesdeDatos #Escalabilidad #OptimizaciónDeCostos
+
+[Este post fue generado automáticamente con Amazon Bedrock IA – Fuente: https://aws.amazon.com/blogs/aws/feed/]
+
+_Este post fue generado automáticamente usando AWS Lambda + Amazon Bedrock + GitHub Actions._
