@@ -1,0 +1,19 @@
+---
+title: "Amazon S3 Storage Lens adds performance metrics, support for billions of prefixes, and export to S3 Tables"
+date: "2025-12-05"
+categories: [AWS, DevOps, Automation, AI]
+---
+
+¡Optimiza tu aplicación con las nuevas métricas de Amazon S3 Storage Lens! 🚀
+
+📈 Métricas de rendimiento para identificar cuellos de botella
+🔍 Analiza billones de prefijos sin límites
+💻 Exporta a S3 Tables para un análisis simplificado
+
+Aprovecha al máximo tu almacenamiento en la nube con estas potentes herramientas.
+
+#AmazonS3 #StorageLens #RendimientoAplicaciones #AnálisisDatos
+
+[Este post fue generado automáticamente con Amazon Bedrock IA – Fuente: https://aws.amazon.com/blogs/aws/feed/]
+
+_Este post fue generado automáticamente usando AWS Lambda + Amazon Bedrock + GitHub Actions._
