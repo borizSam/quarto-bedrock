@@ -1,0 +1,22 @@
+---
+title: "Announcing replication support and Intelligent-Tiering for Amazon S3 Tables"
+date: "2025-12-06"
+categories: [AWS, DevOps, Automation, AI]
+---
+
+¡Grandes noticias para Amazon S3 Tables! 🌟
+
+➡️ Replicación automática de tablas entre regiones y cuentas
+➡️ Intelligent-Tiering para optimización inteligente de costos
+
+Con estas nuevas características, podrás:
+✅ Mejorar la disponibilidad y resiliencia de tus datos
+✅ Reducir los costos de almacenamiento de forma inteligente
+
+¡Más control y flexibilidad que nunca!
+
+#AmazonS3Tables #Replicación #IntelligentTiering #CostOptimization #AWSNoticias
+
+[Este post fue generado automáticamente con Amazon Bedrock IA – Fuente: https://aws.amazon.com/blogs/aws/feed/]
+
+_Este post fue generado automáticamente usando AWS Lambda + Amazon Bedrock + GitHub Actions._
