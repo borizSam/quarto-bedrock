@@ -1,31 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://USERNAME.github.io/REPO/index.html</loc>
-    <lastmod>2025-12-01T11:53:33.740Z</lastmod>
+    <loc>https://borizsam.github.io/quarto-bedrock/workflow.html</loc>
+    <lastmod>2025-12-15T14:28:44.378Z</lastmod>
   </url>
   <url>
-    <loc>https://USERNAME.github.io/REPO/posts/post-template.html</loc>
-    <lastmod>2025-12-01T11:22:43.905Z</lastmod>
+    <loc>https://borizsam.github.io/quarto-bedrock/index.html</loc>
+    <lastmod>2025-12-15T14:25:01.348Z</lastmod>
   </url>
   <url>
-    <loc>https://USERNAME.github.io/REPO/about.html</loc>
+    <loc>https://borizsam.github.io/quarto-bedrock/posts/2025-12-03-linkedin-auto.html</loc>
+    <lastmod>2025-12-15T13:32:32.948Z</lastmod>
+  </url>
+  <url>
+    <loc>https://borizsam.github.io/quarto-bedrock/posts/index.html</loc>
+    <lastmod>2025-12-15T14:41:24.358Z</lastmod>
+  </url>
+  <url>
+    <loc>https://borizsam.github.io/quarto-bedrock/posts/2025-12-07-linkedin-auto.html</loc>
+    <lastmod>2025-12-15T13:32:32.948Z</lastmod>
+  </url>
+  <url>
+    <loc>https://borizsam.github.io/quarto-bedrock/posts/2025-12-08-linkedin-auto.html</loc>
+    <lastmod>2025-12-15T13:32:32.948Z</lastmod>
+  </url>
+  <url>
+    <loc>https://borizsam.github.io/quarto-bedrock/posts/2025-12-09-linkedin-auto.html</loc>
+    <lastmod>2025-12-15T13:32:32.948Z</lastmod>
+  </url>
+  <url>
+    <loc>https://borizsam.github.io/quarto-bedrock/posts/2025-12-06-linkedin-auto.html</loc>
+    <lastmod>2025-12-15T13:32:32.948Z</lastmod>
+  </url>
+  <url>
+    <loc>https://borizsam.github.io/quarto-bedrock/about.html</loc>
     <lastmod>2025-12-01T09:56:03.191Z</lastmod>
   </url>
   <url>
-    <loc>https://USERNAME.github.io/REPO/posts/2025-12-01-linkedin-auto.html</loc>
-    <lastmod>2025-12-01T11:53:25.240Z</lastmod>
+    <loc>https://borizsam.github.io/quarto-bedrock/posts/2025-12-10-linkedin-auto.html</loc>
+    <lastmod>2025-12-15T13:32:32.948Z</lastmod>
   </url>
   <url>
-    <loc>https://USERNAME.github.io/REPO/posts/index.html</loc>
-    <lastmod>2025-12-01T11:13:51.577Z</lastmod>
+    <loc>https://borizsam.github.io/quarto-bedrock/posts/2025-12-05-linkedin-auto.html</loc>
+    <lastmod>2025-12-15T13:32:32.948Z</lastmod>
   </url>
   <url>
-    <loc>https://USERNAME.github.io/REPO/workflow.html</loc>
-    <lastmod>2025-12-01T11:47:49.281Z</lastmod>
+    <loc>https://borizsam.github.io/quarto-bedrock/posts/2025-12-01-linkedin-auto1.html</loc>
+    <lastmod>2025-12-01T11:58:44.100Z</lastmod>
   </url>
   <url>
-    <loc>https://USERNAME.github.io/REPO/api-demo.html</loc>
-    <lastmod>2025-12-01T11:47:04.061Z</lastmod>
+    <loc>https://borizsam.github.io/quarto-bedrock/posts/2025-12-01-linkedin-auto.html</loc>
+    <lastmod>2025-12-02T12:29:54.368Z</lastmod>
+  </url>
+  <url>
+    <loc>https://borizsam.github.io/quarto-bedrock/posts/2025-12-04-linkedin-auto.html</loc>
+    <lastmod>2025-12-15T13:32:32.948Z</lastmod>
+  </url>
+  <url>
+    <loc>https://borizsam.github.io/quarto-bedrock/posts/2025-12-11-linkedin-auto.html</loc>
+    <lastmod>2025-12-15T13:32:32.948Z</lastmod>
+  </url>
+  <url>
+    <loc>https://borizsam.github.io/quarto-bedrock/posts/2025-12-02-linkedin-auto.html</loc>
+    <lastmod>2025-12-15T13:32:32.948Z</lastmod>
+  </url>
+  <url>
+    <loc>https://borizsam.github.io/quarto-bedrock/api-demo.html</loc>
+    <lastmod>2025-12-01T12:22:23.058Z</lastmod>
   </url>
 </urlset>

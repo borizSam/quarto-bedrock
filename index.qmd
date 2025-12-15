@@ -1,21 +1,6 @@
 ---
 title: "Blog"
 page-layout: full
-listing:
-  contents: .
-  type: grid
-  sort: "date desc"
-  grid-columns: 3
-  image-placeholder: ""
-  fields: [image, title, description, date, categories]
 ---
 
-# 📰 Últimos Posts
-
-```{listing}
-contents: .
-type: grid
-sort: "date desc"
-grid-columns: 3
-image-placeholder: ""
-fields: [image, title, description, date, categories]
+<meta http-equiv="refresh" content="0; url=posts/">

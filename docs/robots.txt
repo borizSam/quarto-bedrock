@@ -1,1 +1,1 @@
-Sitemap: https://USERNAME.github.io/REPO/sitemap.xml
+Sitemap: https://borizsam.github.io/quarto-bedrock/sitemap.xml

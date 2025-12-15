@@ -1,61 +1,221 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Space+Grotesk:wght@500;600;700&display=swap");
 
----
+/* =========================
+   GLOBAL – FUTURISTIC BASE
+========================= */
 
-# 🎨 **2. Estilos personalizados estilo Hashnode / Dev.to**
+:root {
+  --bg-main: #0b0f14;
+  --bg-card: rgba(255, 255, 255, 0.035);
 
-Crea o edita tu archivo `styles.css` e inserta esto:
+  --text-main: #e6edf3;
+  --text-muted: #9aa4b2;
 
-```css
-/* BLOG GRID */
-.blog-grid .quarto-grid-item {
-  background: #0f1624;
-  border-radius: 12px;
-  padding: 16px;
-  border: 1px solid #1c2940;
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  --accent: #4fd1ff;     /* azul AI */
+  --accent-soft: rgba(79, 209, 255, 0.15);
+  --accent-2: #7cffc4;   /* verde automation */
+
+  --border-glow: rgba(79, 209, 255, 0.25);
+  --radius: 14px;
 }
 
-.blog-grid .quarto-grid-item:hover {
-  transform: translateY(-6px);
-  box-shadow: 0px 6px 20px rgba(0, 0, 0, 0.4);
-  border-color: #00d4ff;
+body {
+  background: radial-gradient(circle at top, #0f172a, #020617);
+  color: var(--text-main);
+  font-family: "Inter", "Segoe UI", system-ui, sans-serif;
 }
 
-/* TITULOS */
-.blog-grid .quarto-grid-item h3 {
-  font-size: 1.2rem;
-  font-weight: 700;
-  color: #ffffff;
+/* =========================
+   NAVBAR
+========================= */
+
+.navbar {
+  backdrop-filter: blur(12px);
+  background: rgba(5, 10, 20, 0.6) !important;
+  border-bottom: 1px solid var(--border-glow);
 }
 
-/* DESCRIPCIÓN */
-.blog-grid .description {
-  font-size: 0.95rem;
-  color: #c9d1d9;
+.navbar a {
+  color: var(--text-main) !important;
+  font-weight: 500;
 }
 
-/* FECHA */
-.quarto-grid-item .metadata {
-  font-size: 0.8rem !important;
-  color: #9ab4d0;
+.navbar a:hover {
+  color: var(--accent) !important;
 }
 
-/* CATEGORÍAS (TAGS) */
-.quarto-category {
-  background: #1b2a41;
-  color: #00eaff;
-  padding: 4px 10px;
-  border-radius: 20px;
+/* =========================
+   BLOG TITLE
+========================= */
+
+h1 {
+  font-size: 3rem;
+  letter-spacing: -1px;
+  background: linear-gradient(90deg, var(--accent), var(--accent-2));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin-bottom: 2rem;
+}
+
+/* =========================
+   LISTING (POST CARDS)
+========================= */
+
+.quarto-listing {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.quarto-listing .quarto-listing-item {
+  background: var(--bg-card);
+  border-radius: var(--radius);
+  padding: 1.5rem 2rem;
+  border: 1px solid transparent;
+  transition: all 0.25s ease;
+  box-shadow: 0 0 0 transparent;
+}
+
+.quarto-listing .quarto-listing-item:hover {
+  border-color: var(--border-glow);
+  box-shadow: 0 0 30px rgba(0, 255, 255, 0.08);
+  transform: translateY(-2px);
+}
+
+/* =========================
+   POST TITLE
+========================= */
+
+.quarto-listing-item-title a {
+  font-size: 1.4rem;
+  font-weight: 600;
+  color: var(--text-main);
+  text-decoration: none;
+}
+
+.quarto-listing-item-title a:hover {
+  color: var(--accent);
+}
+
+/* =========================
+   DATE
+========================= */
+
+.quarto-listing-item .listing-date {
+  color: var(--text-muted);
+  font-size: 0.85rem;
+  margin-bottom: 0.3rem;
+}
+
+/* =========================
+   CATEGORIES / TAGS
+========================= */
+
+.quarto-listing-item .listing-categories span {
+  background: var(--accent-soft);
+  color: var(--accent);
+  border: 1px solid var(--border-glow);
+}
+
+/* =========================
+   FOOTER
+========================= */
+
+footer {
+  border-top: 1px solid var(--border-glow);
+  margin-top: 4rem;
+  color: var(--text-muted);
+}
+/* =========================
+   MICRO-MEJORA 1: JERARQUÍA
+========================= */
+
+.quarto-listing-item-title a {
+  font-size: 1.6rem;
+  font-weight: 600;
+}
+
+.listing-categories {
+  margin-top: 0.5rem;
+  margin-bottom: 0.6rem;
+}
+
+.listing-categories span {
+  font-size: 0.65rem;
+  opacity: 0.9;
+}
+
+.listing-date {
   font-size: 0.75rem;
-  margin-right: 6px;
+  opacity: 0.5;
 }
 
-/* IMAGEN DEL POST */
-.quarto-grid-item img {
-  width: 100%;
-  height: 160px;
-  object-fit: cover;
-  border-radius: 10px;
-  margin-bottom: 10px;
-  background-color: #0d1117;
+/* =========================
+   MICRO-MEJORA 2: BLOG HERO
+========================= */
+
+.blog-hero {
+  margin: 2.5rem 0 3.5rem;
+  padding: 2rem 2.5rem;
+  border-radius: 16px;
+  background: linear-gradient(
+    135deg,
+    rgba(0, 255, 255, 0.12),
+    rgba(124, 255, 196, 0.05)
+  );
+  border: 1px solid rgba(0, 255, 255, 0.25);
+  backdrop-filter: blur(10px);
+}
+
+.blog-hero h3 {
+  font-size: 1.9rem;
+  margin-bottom: 0.6rem;
+}
+
+.blog-hero p {
+  color: rgba(230, 237, 243, 0.85);
+  max-width: 700px;
+}
+
+.hero-link {
+  display: inline-block;
+  margin-top: 1.2rem;
+  padding: 0.4rem 1rem;
+  border-radius: 999px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: #000;
+  background: linear-gradient(90deg, #00f0ff, #7cffc4);
+  text-decoration: none;
+}
+/* =========================
+   MICRO-MEJORA 4: TYPOGRAPHY
+========================= */
+
+/* Texto base */
+body {
+  font-family: "Inter", system-ui, sans-serif;
+  letter-spacing: 0.01em;
+}
+
+/* Títulos */
+h1, h2, h3, h4 {
+  font-family: "Space Grotesk", system-ui, sans-serif;
+  letter-spacing: -0.02em;
+}
+
+/* Título principal del blog */
+h1 {
+  font-weight: 700;
+}
+
+/* Títulos de posts en el listing */
+.quarto-listing-item-title a {
+  font-family: "Space Grotesk", system-ui, sans-serif;
+  font-weight: 600;
+}
+
+/* Texto de los posts */
+article {
+  font-size: 1.05rem;
 }

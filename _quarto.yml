@@ -2,43 +2,26 @@ project:
   type: website
   output-dir: docs
 
+execute:
+  enabled: false
+
 website:
   title: "Bedrock-IA"
-  description: "Automatización • IA • Cloud • Pipelines • Bedrock → Lambda → API"
-  site-url: "https://USERNAME.github.io/REPO"
-  favicon: images/favicon.ico
-
-  # ⬇ Blog será la página inicial
-  page-navigation: true
+  site-url: "https://borizsam.github.io/quarto-bedrock"
 
   navbar:
     pinned: true
-    background: "#0A1A2F"
-    foreground: "white"
-
     left:
       - text: Blog
-        href: index.qmd        # ahora el blog es la home
+        href: posts/
       - text: API Demo
         href: api-demo.qmd
       - text: Workflow
-        href: workflow.qmd     # nueva página con tu diagrama
-
-    right:
-      - icon: github
-        href: https://github.com/USERNAME/REPO
-      - icon: rss
-        href: posts/index.xml
-
+        href: workflow.qmd
 format:
   html:
     theme:
       light: cosmo
       dark: cyborg
     css: styles.css
-    code-copy: true
-    toc: true
-    smooth-scroll: true
-
-search: true
-
+    toc: false

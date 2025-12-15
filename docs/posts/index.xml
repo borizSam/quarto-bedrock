@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Bedrock-IA</title>
+<link>https://borizsam.github.io/quarto-bedrock/posts/</link>
+<atom:link href="https://borizsam.github.io/quarto-bedrock/posts/index.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<generator>quarto-1.4.550</generator>
+<lastBuildDate>Wed, 10 Dec 2025 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>New serverless customization in Amazon SageMaker AI accelerates model fine-tuning</title>
+  <link>https://borizsam.github.io/quarto-bedrock/posts/2025-12-11-linkedin-auto.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Nueva funcionalidad en Amazon SageMaker AI 🚀</p>
+<p>¿Necesitas acelerar el desarrollo de tus modelos de IA? 💻</p>
+<p>Nuevas características de entrenamiento permiten: - Recuperación rápida ante fallos - Escalado automático según recursos disponibles</p>
+<p>Desarrolla tus modelos de forma más ágil y eficiente. 🏎️</p>
+<p>#AWSaisCanvas #MachineLearning #IA #CloudComputing #Innovación</p>
+<p>[Este post fue generado automáticamente con Amazon Bedrock IA – Fuente: https://aws.amazon.com/blogs/aws/feed/]</p>
+<p><em>Este post fue generado automáticamente usando AWS Lambda + Amazon Bedrock + GitHub Actions.</em></p>
+
+
+
+ ]]></description>
+  <category>AWS</category>
+  <category>DevOps</category>
+  <category>Automation</category>
+  <category>AI</category>
+  <guid>https://borizsam.github.io/quarto-bedrock/posts/2025-12-11-linkedin-auto.html</guid>
+  <pubDate>Wed, 10 Dec 2025 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>New serverless customization in Amazon SageMaker AI accelerates model fine-tuning</title>
+  <link>https://borizsam.github.io/quarto-bedrock/posts/2025-12-10-linkedin-auto.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Revoluciona tu desarrollo de IA con Amazon SageMaker</p>
+<p>🚀 Nuevas características de entrenamiento serverless ⚡ Recuperación rápida ante fallas ⚙️ Escalado automático según recursos disponibles</p>
+<p>Acelera el ajuste fino de tus modelos de IA y maximiza la eficiencia de tu flujo de trabajo.</p>
+<p>#AWSAISageMaker #DesarrolloDeIA #MachineLearning #CloudComputing</p>
+<p>[Este post fue generado automáticamente con Amazon Bedrock IA – Fuente: https://aws.amazon.com/blogs/aws/feed/]</p>
+<p><em>Este post fue generado automáticamente usando AWS Lambda + Amazon Bedrock + GitHub Actions.</em></p>
+
+
+
+ ]]></description>
+  <category>AWS</category>
+  <category>DevOps</category>
+  <category>Automation</category>
+  <category>AI</category>
+  <guid>https://borizsam.github.io/quarto-bedrock/posts/2025-12-10-linkedin-auto.html</guid>
+  <pubDate>Tue, 09 Dec 2025 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Amazon Bedrock adds reinforcement ﬁne-tuning simplifying how developers build smarter, more accurate AI models</title>
+  <link>https://borizsam.github.io/quarto-bedrock/posts/2025-12-09-linkedin-auto.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>¿Estás listo para impulsar tus modelos de IA? 🚀</p>
+<p>Amazon Bedrock acaba de agregar ajuste fino por refuerzo, brindando un aumento promedio del 66% en precisión sobre los modelos base. 💡</p>
+<p>Simplifique el desarrollo de modelos de IA más inteligentes y precisos con esta nueva función revolucionaria. 🧠</p>
+<p>Eleve su juego de Machine Learning y destaque en un mundo impulsado por datos. 📈</p>
+<p>#AmazonBedrock #ReInforzamiento #IA #MachineLearning #Innovación</p>
+<p>[Este post fue generado automáticamente con Amazon Bedrock IA – Fuente: https://aws.amazon.com/blogs/aws/feed/]</p>
+<p><em>Este post fue generado automáticamente usando AWS Lambda + Amazon Bedrock + GitHub Actions.</em></p>
+
+
+
+ ]]></description>
+  <category>AWS</category>
+  <category>DevOps</category>
+  <category>Automation</category>
+  <category>AI</category>
+  <guid>https://borizsam.github.io/quarto-bedrock/posts/2025-12-09-linkedin-auto.html</guid>
+  <pubDate>Mon, 08 Dec 2025 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Announcing replication support and Intelligent-Tiering for Amazon S3 Tables</title>
+  <link>https://borizsam.github.io/quarto-bedrock/posts/2025-12-08-linkedin-auto.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>¡Nuevas capacidades de Amazon S3 Tables! 🚀</p>
+<p>✅ Replicación automática entre regiones y cuentas ✅ Niveles de almacenamiento inteligentes para optimizar costos</p>
+<p>Simplifique sus operaciones de datos con escalabilidad, durabilidad y alto rendimiento.</p>
+<p>#AmazonS3Tables #Replicación #IntelligentTiering #Escalabilidad #DurabilidadDeDatos</p>
+<p>Descubre más en el enlace 👇 [Este post fue generado automáticamente con Amazon Bedrock IA – Fuente: https://aws.amazon.com/blogs/aws/feed/]</p>
+<p><em>Este post fue generado automáticamente usando AWS Lambda + Amazon Bedrock + GitHub Actions.</em></p>
+
+
+
+ ]]></description>
+  <category>AWS</category>
+  <category>DevOps</category>
+  <category>Automation</category>
+  <category>AI</category>
+  <guid>https://borizsam.github.io/quarto-bedrock/posts/2025-12-08-linkedin-auto.html</guid>
+  <pubDate>Sun, 07 Dec 2025 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>New serverless customization in Amazon SageMaker AI accelerates model fine-tuning</title>
+  <link>https://borizsam.github.io/quarto-bedrock/posts/2025-12-07-linkedin-auto.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Acelera el desarrollo de modelos de IA 🚀</p>
+<p>¿Cansado de esperar por tus entrenamientos? Presenta las nuevas funcionalidades de Amazon SageMaker:</p>
+<p>📈 Escalado automático basado en recursos disponibles ⏪ Recuperación rápida en caso de fallos</p>
+<p>¡Ahorra tiempo y optimiza tu flujo de trabajo de aprendizaje automático!</p>
+<p>#AmazonSageMaker #IA #AprendizajeAutomático #MachineLearning #CloudComputing</p>
+<p>[Este post fue generado automáticamente con Amazon Bedrock IA – Fuente: https://aws.amazon.com/blogs/aws/feed/]</p>
+<p><em>Este post fue generado automáticamente usando AWS Lambda + Amazon Bedrock + GitHub Actions.</em></p>
+
+
+
+ ]]></description>
+  <category>AWS</category>
+  <category>DevOps</category>
+  <category>Automation</category>
+  <category>AI</category>
+  <guid>https://borizsam.github.io/quarto-bedrock/posts/2025-12-07-linkedin-auto.html</guid>
+  <pubDate>Sat, 06 Dec 2025 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Announcing replication support and Intelligent-Tiering for Amazon S3 Tables</title>
+  <link>https://borizsam.github.io/quarto-bedrock/posts/2025-12-06-linkedin-auto.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>¡Grandes noticias para Amazon S3 Tables! 🌟</p>
+<p>➡️ Replicación automática de tablas entre regiones y cuentas ➡️ Intelligent-Tiering para optimización inteligente de costos</p>
+<p>Con estas nuevas características, podrás: ✅ Mejorar la disponibilidad y resiliencia de tus datos ✅ Reducir los costos de almacenamiento de forma inteligente</p>
+<p>¡Más control y flexibilidad que nunca!</p>
+<p>#AmazonS3Tables #Replicación #IntelligentTiering #CostOptimization #AWSNoticias</p>
+<p>[Este post fue generado automáticamente con Amazon Bedrock IA – Fuente: https://aws.amazon.com/blogs/aws/feed/]</p>
+<p><em>Este post fue generado automáticamente usando AWS Lambda + Amazon Bedrock + GitHub Actions.</em></p>
+
+
+
+ ]]></description>
+  <category>AWS</category>
+  <category>DevOps</category>
+  <category>Automation</category>
+  <category>AI</category>
+  <guid>https://borizsam.github.io/quarto-bedrock/posts/2025-12-06-linkedin-auto.html</guid>
+  <pubDate>Fri, 05 Dec 2025 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Amazon S3 Storage Lens adds performance metrics, support for billions of prefixes, and export to S3 Tables</title>
+  <link>https://borizsam.github.io/quarto-bedrock/posts/2025-12-05-linkedin-auto.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>¡Optimiza tu aplicación con las nuevas métricas de Amazon S3 Storage Lens! 🚀</p>
+<p>📈 Métricas de rendimiento para identificar cuellos de botella 🔍 Analiza billones de prefijos sin límites 💻 Exporta a S3 Tables para un análisis simplificado</p>
+<p>Aprovecha al máximo tu almacenamiento en la nube con estas potentes herramientas.</p>
+<p>#AmazonS3 #StorageLens #RendimientoAplicaciones #AnálisisDatos</p>
+<p>[Este post fue generado automáticamente con Amazon Bedrock IA – Fuente: https://aws.amazon.com/blogs/aws/feed/]</p>
+<p><em>Este post fue generado automáticamente usando AWS Lambda + Amazon Bedrock + GitHub Actions.</em></p>
+
+
+
+ ]]></description>
+  <category>AWS</category>
+  <category>DevOps</category>
+  <category>Automation</category>
+  <category>AI</category>
+  <guid>https://borizsam.github.io/quarto-bedrock/posts/2025-12-05-linkedin-auto.html</guid>
+  <pubDate>Thu, 04 Dec 2025 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>New serverless customization in Amazon SageMaker AI accelerates model fine-tuning</title>
+  <link>https://borizsam.github.io/quarto-bedrock/posts/2025-12-04-linkedin-auto.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>¡Mejora tu desarrollo de modelos de IA con Amazon SageMaker!</p>
+<p>⚡ Nuevas capacidades de entrenamiento serverless personalizables. 💪 Recuperación rápida ante fallas y escalado automático. 🚀 Acelera el ajuste fino de tus modelos de IA.</p>
+<p>#MachineLearning #IA #CloudComputing #AWSAISageMaker</p>
+<p>¡Descubre las novedades en el enlace!</p>
+<p>[Este post fue generado automáticamente con Amazon Bedrock IA – Fuente: https://aws.amazon.com/blogs/aws/feed/]</p>
+<p><em>Este post fue generado automáticamente usando AWS Lambda + Amazon Bedrock + GitHub Actions.</em></p>
+
+
+
+ ]]></description>
+  <category>AWS</category>
+  <category>DevOps</category>
+  <category>Automation</category>
+  <category>AI</category>
+  <guid>https://borizsam.github.io/quarto-bedrock/posts/2025-12-04-linkedin-auto.html</guid>
+  <pubDate>Wed, 03 Dec 2025 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>New capabilities to optimize costs and improve scalability on Amazon RDS for SQL Server and Oracle</title>
+  <link>https://borizsam.github.io/quarto-bedrock/posts/2025-12-03-linkedin-auto.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>¡Optimiza tus cargas de trabajo de bases de datos con las nuevas capacidades de Amazon RDS!</p>
+<p>🔸Edición de Desarrollador para SQL Server 🔸Instancias M7i/R7i con CPU optimizada 🔸Opciones de almacenamiento de hasta 256 TiB</p>
+<p>Mejora el rendimiento y reduce costos en tus entornos de desarrollo, pruebas y producción.</p>
+<p>#AmazonRDS #SQLServer #Oracle #BasesdeDatos #Escalabilidad #OptimizaciónDeCostos</p>
+<p>[Este post fue generado automáticamente con Amazon Bedrock IA – Fuente: https://aws.amazon.com/blogs/aws/feed/]</p>
+<p><em>Este post fue generado automáticamente usando AWS Lambda + Amazon Bedrock + GitHub Actions.</em></p>
+
+
+
+ ]]></description>
+  <category>AWS</category>
+  <category>DevOps</category>
+  <category>Automation</category>
+  <category>AI</category>
+  <guid>https://borizsam.github.io/quarto-bedrock/posts/2025-12-03-linkedin-auto.html</guid>
+  <pubDate>Tue, 02 Dec 2025 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Top announcements of AWS re:Invent 2025</title>
+  <link>https://borizsam.github.io/quarto-bedrock/posts/2025-12-02-linkedin-auto.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>¿Perdiste las principales novedades de #reInvent2025? 🤯</p>
+<p>✨ Descubre las innovaciones más impactantes de AWS en: • Analítica • Inteligencia Artificial • Cómputo • Contenedores • Seguridad … ¡y más! 🔥</p>
+<p>📃 Resumen completo de los anuncios clave: https://aws.amazon.com/blogs/aws/top-announcements-of-aws-reinvent-2025/</p>
+<p>#AWSnews #CloudComputing #Innovación #Tecnología</p>
+<p>[Este post fue generado automáticamente con Amazon Bedrock IA – Fuente: https://aws.amazon.com/blogs/aws/feed/]</p>
+<p><em>Este post fue generado automáticamente usando AWS Lambda + Amazon Bedrock + GitHub Actions.</em></p>
+
+
+
+ ]]></description>
+  <category>AWS</category>
+  <category>DevOps</category>
+  <category>Automation</category>
+  <category>AI</category>
+  <guid>https://borizsam.github.io/quarto-bedrock/posts/2025-12-02-linkedin-auto.html</guid>
+  <pubDate>Mon, 01 Dec 2025 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>AWS Partner Central now available in AWS Management Console</title>
+  <link>https://borizsam.github.io/quarto-bedrock/posts/2025-12-01-linkedin-auto1.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>¿Eres un Socio de AWS? 🤝</p>
+<p>Optimiza tu experiencia con Partner Central en AWS Console 🚀 • Gestiona soluciones, oportunidades y listados en un solo lugar • Interfaz unificada con seguridad de grado empresarial • Agiliza tu transición de cliente a Socio</p>
+<p>#AWSPartners #PartnerCentral #AWSConsole #EficienciaEmpresarial</p>
+<p>[Este post fue generado automáticamente con Amazon Bedrock IA – Fuente: https://aws.amazon.com/blogs/aws/feed/]</p>
+<p><em>Este post fue generado automáticamente usando AWS Lambda + Amazon Bedrock + GitHub Actions.</em></p>
+
+
+
+ ]]></description>
+  <category>AWS</category>
+  <category>DevOps</category>
+  <category>Automation</category>
+  <category>AI</category>
+  <guid>https://borizsam.github.io/quarto-bedrock/posts/2025-12-01-linkedin-auto1.html</guid>
+  <pubDate>Sun, 30 Nov 2025 23:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>AWS Partner Central now available in AWS Management Console</title>
+  <link>https://borizsam.github.io/quarto-bedrock/posts/2025-12-01-linkedin-auto.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>¿Estás listo para simplificar tu viaje como Socio de AWS? 🚀</p>
+<p>La nueva integración de Partner Central en la Consola de AWS te permite:</p>
+<p>✅ Gestionar soluciones, oportunidades y listados en un solo lugar ✅ Acceso seguro con funciones empresariales ✅ Experiencia fluida y eficiente</p>
+<p>#AWSPartnerCentral #AWSPartners #InnovaciónAWS #NuevaFuncionalidad #EficienciaEmpresarial</p>
+<p>[Este post fue generado automáticamente con Amazon Bedrock IA - Fuente: https://aws.amazon.com/blogs/aws/feed/]</p>
+<p><em>Este post fue generado automáticamente usando AWS Lambda + Amazon Bedrock + GitHub Actions.</em></p>
+
+
+
+ ]]></description>
+  <category>AWS</category>
+  <category>DevOps</category>
+  <category>Automation</category>
+  <category>AI</category>
+  <guid>https://borizsam.github.io/quarto-bedrock/posts/2025-12-01-linkedin-auto.html</guid>
+  <pubDate>Sun, 30 Nov 2025 23:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,19 @@
+::: {.hero}
+### DevOps & AI Automation
+
+Insights técnicos generados automáticamente --> 
+**AWS Bedrock · Serverless · GitHub Actions**
+
+:::
+
+---
+title: "Blog"
+page-layout: full
+
+listing:
+  contents: .
+  type: default
+  sort: "date desc"
+  fields: [title, date, categories]
+  feed: true
+---

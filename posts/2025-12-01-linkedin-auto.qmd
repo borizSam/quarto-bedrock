@@ -1,5 +1,6 @@
 ---
 title: "AWS Partner Central now available in AWS Management Console"
+description: "Generado con Bedrock"
 date: "2025-12-01"
 categories: [AWS, DevOps, Automation, AI]
 ---
