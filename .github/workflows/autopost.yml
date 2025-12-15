@@ -19,8 +19,16 @@ jobs:
       - name: Call AWS API (Bedrock Lambda)
         id: callapi
         run: |
-          RESPONSE=$(curl --fail --silent --show-error \
+          RESPONSE=$(curl --silent --show-error \
+            --retry 5 \
+            --retry-delay 3 \
+            --retry-all-errors \
             "${{ secrets.BEDROCK_API_URL }}")
+
+          if [ -z "$RESPONSE" ]; then
+            echo "❌ Empty response from API"
+            exit 1
+          fi
           echo "api_response=$RESPONSE" >> $GITHUB_OUTPUT
 
       - name: Parse API Response
