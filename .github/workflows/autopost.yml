@@ -2,7 +2,7 @@ name: Auto Publish DevOps Post
 
 on:
   schedule:
-    - cron: "0 14 * * *" # todos los días a las 14 UTC (puedes cambiar)
+    - cron: "0 14 * * 1,3,5" # Lunes-Miercoles-Viernes a las 14 UTC
   workflow_dispatch: # correr manualmente
 
 jobs:
