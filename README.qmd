@@ -1,11 +1,6 @@
----
-title: "🤖 Bedrock-IA — Generación Automática de Contenido DevOps"
-format:
-  gfm:
-    toc: true
----
+# 🤖 Bedrock-IA — Generación Automática de Contenido DevOps
 
-## 🧠 Descripción
+## Descripción
 
 Este proyecto implementa un **pipeline completamente automatizado** que genera y publica contenido técnico DevOps utilizando **IA generativa**, **arquitectura serverless en AWS** y **CI/CD con GitHub Actions**.
 

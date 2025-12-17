@@ -21,6 +21,13 @@
     "text": "GitHub Actions ejecuta un job diario.\nEl job llama a tu API:\n\nAPI Gateway → Lambda → Bedrock.\n\nBedrock genera un post técnico DevOps.\nGitHub Actions crea un archivo .qmd.\nEl sitio Quarto se vuelve a renderizar.\nGitHub Pages publica automáticamente."
   },
   {
+    "objectID": "posts/2025-12-15-linkedin-auto.html",
+    "href": "posts/2025-12-15-linkedin-auto.html",
+    "title": "Announcing replication support and Intelligent-Tiering for Amazon S3 Tables",
+    "section": "",
+    "text": "Nuevas funciones de Amazon S3 Tables:\n✨ Replicación de tablas entre regiones y cuentas 🤖 Niveles de almacenamiento inteligentes 💰 Optimización automática de costos\nGestiona tus datos de forma eficiente y escalable.\n#AWSCloud #BigData #DataAnalytics #TechTrends\n[Este post fue generado automáticamente con Amazon Bedrock IA – Fuente: https://aws.amazon.com/blogs/aws/feed/]\nEste post fue generado automáticamente usando AWS Lambda + Amazon Bedrock + GitHub Actions."
+  },
+  {
     "objectID": "posts/2025-12-03-linkedin-auto.html",
     "href": "posts/2025-12-03-linkedin-auto.html",
     "title": "New capabilities to optimize costs and improve scalability on Amazon RDS for SQL Server and Oracle",
@@ -32,7 +39,7 @@
     "href": "posts/index.html",
     "title": "Blog",
     "section": "",
-    "text": "DevOps & AI Automation\nInsights técnicos generados automáticamente –&gt; AWS Bedrock · Serverless · GitHub Actions\n\n\n\n\n\n\n\n\n\n\nNew serverless customization in Amazon SageMaker AI accelerates model fine-tuning\n\n\n\n\n\n\nAWS\n\n\nDevOps\n\n\nAutomation\n\n\nAI\n\n\n\n\n\n\nDec 11, 2025\n\n\n\n\n\n\n\nNew serverless customization in Amazon SageMaker AI accelerates model fine-tuning\n\n\n\n\n\n\nAWS\n\n\nDevOps\n\n\nAutomation\n\n\nAI\n\n\n\n\n\n\nDec 10, 2025\n\n\n\n\n\n\n\nAmazon Bedrock adds reinforcement ﬁne-tuning simplifying how developers build smarter, more accurate AI models\n\n\n\n\n\n\nAWS\n\n\nDevOps\n\n\nAutomation\n\n\nAI\n\n\n\n\n\n\nDec 9, 2025\n\n\n\n\n\n\n\nAnnouncing replication support and Intelligent-Tiering for Amazon S3 Tables\n\n\n\n\n\n\nAWS\n\n\nDevOps\n\n\nAutomation\n\n\nAI\n\n\n\n\n\n\nDec 8, 2025\n\n\n\n\n\n\n\nNew serverless customization in Amazon SageMaker AI accelerates model fine-tuning\n\n\n\n\n\n\nAWS\n\n\nDevOps\n\n\nAutomation\n\n\nAI\n\n\n\n\n\n\nDec 7, 2025\n\n\n\n\n\n\n\nAnnouncing replication support and Intelligent-Tiering for Amazon S3 Tables\n\n\n\n\n\n\nAWS\n\n\nDevOps\n\n\nAutomation\n\n\nAI\n\n\n\n\n\n\nDec 6, 2025\n\n\n\n\n\n\n\nAmazon S3 Storage Lens adds performance metrics, support for billions of prefixes, and export to S3 Tables\n\n\n\n\n\n\nAWS\n\n\nDevOps\n\n\nAutomation\n\n\nAI\n\n\n\n\n\n\nDec 5, 2025\n\n\n\n\n\n\n\nNew serverless customization in Amazon SageMaker AI accelerates model fine-tuning\n\n\n\n\n\n\nAWS\n\n\nDevOps\n\n\nAutomation\n\n\nAI\n\n\n\n\n\n\nDec 4, 2025\n\n\n\n\n\n\n\nNew capabilities to optimize costs and improve scalability on Amazon RDS for SQL Server and Oracle\n\n\n\n\n\n\nAWS\n\n\nDevOps\n\n\nAutomation\n\n\nAI\n\n\n\n\n\n\nDec 3, 2025\n\n\n\n\n\n\n\nTop announcements of AWS re:Invent 2025\n\n\n\n\n\n\nAWS\n\n\nDevOps\n\n\nAutomation\n\n\nAI\n\n\n\n\n\n\nDec 2, 2025\n\n\n\n\n\n\n\nAWS Partner Central now available in AWS Management Console\n\n\n\n\n\n\nAWS\n\n\nDevOps\n\n\nAutomation\n\n\nAI\n\n\n\n\n\n\nDec 1, 2025\n\n\n\n\n\n\n\nAWS Partner Central now available in AWS Management Console\n\n\n\n\n\n\nAWS\n\n\nDevOps\n\n\nAutomation\n\n\nAI\n\n\n\n\n\n\nDec 1, 2025\n\n\n\n\n\n\nNo matching items"
+    "text": "DevOps & AI Automation\nInsights técnicos generados automáticamente –&gt; AWS Bedrock · Serverless · GitHub Actions\n\n\n\n\n\n\n\n\n\n\nAWS Weekly Roundup: AWS re:Invent keynote recap, on-demand videos, and more (December 8, 2025)\n\n\n\n\n\n\nAWS\n\n\nDevOps\n\n\nAutomation\n\n\nAI\n\n\n\n\n\n\nDec 17, 2025\n\n\n\n\n\n\n\nNew serverless customization in Amazon SageMaker AI accelerates model fine-tuning\n\n\n\n\n\n\nAWS\n\n\nDevOps\n\n\nAutomation\n\n\nAI\n\n\n\n\n\n\nDec 16, 2025\n\n\n\n\n\n\n\nAnnouncing replication support and Intelligent-Tiering for Amazon S3 Tables\n\n\n\n\n\n\nAWS\n\n\nDevOps\n\n\nAutomation\n\n\nAI\n\n\n\n\n\n\nDec 15, 2025\n\n\n\n\n\n\n\nNew serverless customization in Amazon SageMaker AI accelerates model fine-tuning\n\n\n\n\n\n\nAWS\n\n\nDevOps\n\n\nAutomation\n\n\nAI\n\n\n\n\n\n\nDec 11, 2025\n\n\n\n\n\n\n\nNew serverless customization in Amazon SageMaker AI accelerates model fine-tuning\n\n\n\n\n\n\nAWS\n\n\nDevOps\n\n\nAutomation\n\n\nAI\n\n\n\n\n\n\nDec 10, 2025\n\n\n\n\n\n\n\nAmazon Bedrock adds reinforcement ﬁne-tuning simplifying how developers build smarter, more accurate AI models\n\n\n\n\n\n\nAWS\n\n\nDevOps\n\n\nAutomation\n\n\nAI\n\n\n\n\n\n\nDec 9, 2025\n\n\n\n\n\n\n\nAnnouncing replication support and Intelligent-Tiering for Amazon S3 Tables\n\n\n\n\n\n\nAWS\n\n\nDevOps\n\n\nAutomation\n\n\nAI\n\n\n\n\n\n\nDec 8, 2025\n\n\n\n\n\n\n\nNew serverless customization in Amazon SageMaker AI accelerates model fine-tuning\n\n\n\n\n\n\nAWS\n\n\nDevOps\n\n\nAutomation\n\n\nAI\n\n\n\n\n\n\nDec 7, 2025\n\n\n\n\n\n\n\nAnnouncing replication support and Intelligent-Tiering for Amazon S3 Tables\n\n\n\n\n\n\nAWS\n\n\nDevOps\n\n\nAutomation\n\n\nAI\n\n\n\n\n\n\nDec 6, 2025\n\n\n\n\n\n\n\nAmazon S3 Storage Lens adds performance metrics, support for billions of prefixes, and export to S3 Tables\n\n\n\n\n\n\nAWS\n\n\nDevOps\n\n\nAutomation\n\n\nAI\n\n\n\n\n\n\nDec 5, 2025\n\n\n\n\n\n\n\nNew serverless customization in Amazon SageMaker AI accelerates model fine-tuning\n\n\n\n\n\n\nAWS\n\n\nDevOps\n\n\nAutomation\n\n\nAI\n\n\n\n\n\n\nDec 4, 2025\n\n\n\n\n\n\n\nNew capabilities to optimize costs and improve scalability on Amazon RDS for SQL Server and Oracle\n\n\n\n\n\n\nAWS\n\n\nDevOps\n\n\nAutomation\n\n\nAI\n\n\n\n\n\n\nDec 3, 2025\n\n\n\n\n\n\n\nTop announcements of AWS re:Invent 2025\n\n\n\n\n\n\nAWS\n\n\nDevOps\n\n\nAutomation\n\n\nAI\n\n\n\n\n\n\nDec 2, 2025\n\n\n\n\n\n\n\nAWS Partner Central now available in AWS Management Console\n\n\n\n\n\n\nAWS\n\n\nDevOps\n\n\nAutomation\n\n\nAI\n\n\n\n\n\n\nDec 1, 2025\n\n\n\n\n\n\n\nAWS Partner Central now available in AWS Management Console\n\n\n\n\n\n\nAWS\n\n\nDevOps\n\n\nAutomation\n\n\nAI\n\n\n\n\n\n\nDec 1, 2025\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/2025-12-07-linkedin-auto.html",
@@ -49,32 +56,11 @@
     "text": "¡Nuevas capacidades de Amazon S3 Tables! 🚀\n✅ Replicación automática entre regiones y cuentas ✅ Niveles de almacenamiento inteligentes para optimizar costos\nSimplifique sus operaciones de datos con escalabilidad, durabilidad y alto rendimiento.\n#AmazonS3Tables #Replicación #IntelligentTiering #Escalabilidad #DurabilidadDeDatos\nDescubre más en el enlace 👇 [Este post fue generado automáticamente con Amazon Bedrock IA – Fuente: https://aws.amazon.com/blogs/aws/feed/]\nEste post fue generado automáticamente usando AWS Lambda + Amazon Bedrock + GitHub Actions."
   },
   {
-    "objectID": "posts/2025-12-09-linkedin-auto.html",
-    "href": "posts/2025-12-09-linkedin-auto.html",
-    "title": "Amazon Bedrock adds reinforcement ﬁne-tuning simplifying how developers build smarter, more accurate AI models",
+    "objectID": "posts/2025-12-01-linkedin-auto1.html",
+    "href": "posts/2025-12-01-linkedin-auto1.html",
+    "title": "AWS Partner Central now available in AWS Management Console",
     "section": "",
-    "text": "¿Estás listo para impulsar tus modelos de IA? 🚀\nAmazon Bedrock acaba de agregar ajuste fino por refuerzo, brindando un aumento promedio del 66% en precisión sobre los modelos base. 💡\nSimplifique el desarrollo de modelos de IA más inteligentes y precisos con esta nueva función revolucionaria. 🧠\nEleve su juego de Machine Learning y destaque en un mundo impulsado por datos. 📈\n#AmazonBedrock #ReInforzamiento #IA #MachineLearning #Innovación\n[Este post fue generado automáticamente con Amazon Bedrock IA – Fuente: https://aws.amazon.com/blogs/aws/feed/]\nEste post fue generado automáticamente usando AWS Lambda + Amazon Bedrock + GitHub Actions."
-  },
-  {
-    "objectID": "posts/2025-12-06-linkedin-auto.html",
-    "href": "posts/2025-12-06-linkedin-auto.html",
-    "title": "Announcing replication support and Intelligent-Tiering for Amazon S3 Tables",
-    "section": "",
-    "text": "¡Grandes noticias para Amazon S3 Tables! 🌟\n➡️ Replicación automática de tablas entre regiones y cuentas ➡️ Intelligent-Tiering para optimización inteligente de costos\nCon estas nuevas características, podrás: ✅ Mejorar la disponibilidad y resiliencia de tus datos ✅ Reducir los costos de almacenamiento de forma inteligente\n¡Más control y flexibilidad que nunca!\n#AmazonS3Tables #Replicación #IntelligentTiering #CostOptimization #AWSNoticias\n[Este post fue generado automáticamente con Amazon Bedrock IA – Fuente: https://aws.amazon.com/blogs/aws/feed/]\nEste post fue generado automáticamente usando AWS Lambda + Amazon Bedrock + GitHub Actions."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "posts/2025-12-10-linkedin-auto.html",
-    "href": "posts/2025-12-10-linkedin-auto.html",
-    "title": "New serverless customization in Amazon SageMaker AI accelerates model fine-tuning",
-    "section": "",
-    "text": "Revoluciona tu desarrollo de IA con Amazon SageMaker\n🚀 Nuevas características de entrenamiento serverless ⚡ Recuperación rápida ante fallas ⚙️ Escalado automático según recursos disponibles\nAcelera el ajuste fino de tus modelos de IA y maximiza la eficiencia de tu flujo de trabajo.\n#AWSAISageMaker #DesarrolloDeIA #MachineLearning #CloudComputing\n[Este post fue generado automáticamente con Amazon Bedrock IA – Fuente: https://aws.amazon.com/blogs/aws/feed/]\nEste post fue generado automáticamente usando AWS Lambda + Amazon Bedrock + GitHub Actions."
+    "text": "¿Eres un Socio de AWS? 🤝\nOptimiza tu experiencia con Partner Central en AWS Console 🚀 • Gestiona soluciones, oportunidades y listados en un solo lugar • Interfaz unificada con seguridad de grado empresarial • Agiliza tu transición de cliente a Socio\n#AWSPartners #PartnerCentral #AWSConsole #EficienciaEmpresarial\n[Este post fue generado automáticamente con Amazon Bedrock IA – Fuente: https://aws.amazon.com/blogs/aws/feed/]\nEste post fue generado automáticamente usando AWS Lambda + Amazon Bedrock + GitHub Actions."
   },
   {
     "objectID": "posts/2025-12-05-linkedin-auto.html",
@@ -84,11 +70,39 @@
     "text": "¡Optimiza tu aplicación con las nuevas métricas de Amazon S3 Storage Lens! 🚀\n📈 Métricas de rendimiento para identificar cuellos de botella 🔍 Analiza billones de prefijos sin límites 💻 Exporta a S3 Tables para un análisis simplificado\nAprovecha al máximo tu almacenamiento en la nube con estas potentes herramientas.\n#AmazonS3 #StorageLens #RendimientoAplicaciones #AnálisisDatos\n[Este post fue generado automáticamente con Amazon Bedrock IA – Fuente: https://aws.amazon.com/blogs/aws/feed/]\nEste post fue generado automáticamente usando AWS Lambda + Amazon Bedrock + GitHub Actions."
   },
   {
-    "objectID": "posts/2025-12-01-linkedin-auto1.html",
-    "href": "posts/2025-12-01-linkedin-auto1.html",
-    "title": "AWS Partner Central now available in AWS Management Console",
+    "objectID": "posts/2025-12-10-linkedin-auto.html",
+    "href": "posts/2025-12-10-linkedin-auto.html",
+    "title": "New serverless customization in Amazon SageMaker AI accelerates model fine-tuning",
     "section": "",
-    "text": "¿Eres un Socio de AWS? 🤝\nOptimiza tu experiencia con Partner Central en AWS Console 🚀 • Gestiona soluciones, oportunidades y listados en un solo lugar • Interfaz unificada con seguridad de grado empresarial • Agiliza tu transición de cliente a Socio\n#AWSPartners #PartnerCentral #AWSConsole #EficienciaEmpresarial\n[Este post fue generado automáticamente con Amazon Bedrock IA – Fuente: https://aws.amazon.com/blogs/aws/feed/]\nEste post fue generado automáticamente usando AWS Lambda + Amazon Bedrock + GitHub Actions."
+    "text": "Revoluciona tu desarrollo de IA con Amazon SageMaker\n🚀 Nuevas características de entrenamiento serverless ⚡ Recuperación rápida ante fallas ⚙️ Escalado automático según recursos disponibles\nAcelera el ajuste fino de tus modelos de IA y maximiza la eficiencia de tu flujo de trabajo.\n#AWSAISageMaker #DesarrolloDeIA #MachineLearning #CloudComputing\n[Este post fue generado automáticamente con Amazon Bedrock IA – Fuente: https://aws.amazon.com/blogs/aws/feed/]\nEste post fue generado automáticamente usando AWS Lambda + Amazon Bedrock + GitHub Actions."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "posts/2025-12-06-linkedin-auto.html",
+    "href": "posts/2025-12-06-linkedin-auto.html",
+    "title": "Announcing replication support and Intelligent-Tiering for Amazon S3 Tables",
+    "section": "",
+    "text": "¡Grandes noticias para Amazon S3 Tables! 🌟\n➡️ Replicación automática de tablas entre regiones y cuentas ➡️ Intelligent-Tiering para optimización inteligente de costos\nCon estas nuevas características, podrás: ✅ Mejorar la disponibilidad y resiliencia de tus datos ✅ Reducir los costos de almacenamiento de forma inteligente\n¡Más control y flexibilidad que nunca!\n#AmazonS3Tables #Replicación #IntelligentTiering #CostOptimization #AWSNoticias\n[Este post fue generado automáticamente con Amazon Bedrock IA – Fuente: https://aws.amazon.com/blogs/aws/feed/]\nEste post fue generado automáticamente usando AWS Lambda + Amazon Bedrock + GitHub Actions."
+  },
+  {
+    "objectID": "posts/2025-12-09-linkedin-auto.html",
+    "href": "posts/2025-12-09-linkedin-auto.html",
+    "title": "Amazon Bedrock adds reinforcement ﬁne-tuning simplifying how developers build smarter, more accurate AI models",
+    "section": "",
+    "text": "¿Estás listo para impulsar tus modelos de IA? 🚀\nAmazon Bedrock acaba de agregar ajuste fino por refuerzo, brindando un aumento promedio del 66% en precisión sobre los modelos base. 💡\nSimplifique el desarrollo de modelos de IA más inteligentes y precisos con esta nueva función revolucionaria. 🧠\nEleve su juego de Machine Learning y destaque en un mundo impulsado por datos. 📈\n#AmazonBedrock #ReInforzamiento #IA #MachineLearning #Innovación\n[Este post fue generado automáticamente con Amazon Bedrock IA – Fuente: https://aws.amazon.com/blogs/aws/feed/]\nEste post fue generado automáticamente usando AWS Lambda + Amazon Bedrock + GitHub Actions."
+  },
+  {
+    "objectID": "posts/2025-12-17-linkedin-auto.html",
+    "href": "posts/2025-12-17-linkedin-auto.html",
+    "title": "AWS Weekly Roundup: AWS re:Invent keynote recap, on-demand videos, and more (December 8, 2025)",
+    "section": "",
+    "text": "¿Estuviste en AWS re:Invent 2025? 🌍\nSi no, ¡no te preocupes! Aquí un resumen de los principales anuncios:\n✨ Nuevos servicios revolucionarios ⚡️ Mejoras en rendimiento y seguridad\n💰 Ahorros de costos significativos\nAprende cómo aprovechar al máximo #AWSreInvent y desbloquear nuevas oportunidades.\n#AWSNoticias #CloudComputing #Innovación\n[Este post fue generado automáticamente con Amazon Bedrock IA – Fuente: https://aws.amazon.com/blogs/aws/feed/]\nEste post fue generado automáticamente usando AWS Lambda + Amazon Bedrock + GitHub Actions."
   },
   {
     "objectID": "posts/2025-12-01-linkedin-auto.html",
@@ -110,6 +124,13 @@
     "title": "New serverless customization in Amazon SageMaker AI accelerates model fine-tuning",
     "section": "",
     "text": "Nueva funcionalidad en Amazon SageMaker AI 🚀\n¿Necesitas acelerar el desarrollo de tus modelos de IA? 💻\nNuevas características de entrenamiento permiten: - Recuperación rápida ante fallos - Escalado automático según recursos disponibles\nDesarrolla tus modelos de forma más ágil y eficiente. 🏎️\n#AWSaisCanvas #MachineLearning #IA #CloudComputing #Innovación\n[Este post fue generado automáticamente con Amazon Bedrock IA – Fuente: https://aws.amazon.com/blogs/aws/feed/]\nEste post fue generado automáticamente usando AWS Lambda + Amazon Bedrock + GitHub Actions."
+  },
+  {
+    "objectID": "posts/2025-12-16-linkedin-auto.html",
+    "href": "posts/2025-12-16-linkedin-auto.html",
+    "title": "New serverless customization in Amazon SageMaker AI accelerates model fine-tuning",
+    "section": "",
+    "text": "¡Nuevo! Personalización sin servidor en Amazon SageMaker IA 🚀\nAcelera el desarrollo de modelos de IA con nuevas funciones:\n📈 Recuperación rápida ante fallos ⚡ Escalado automático según recursos disponibles\nFacilita el ajuste fino de modelos con eficiencia y agilidad.\n#AmazonSageMaker #IA #Aprendizaje Automático #CloudComputing\n¿Listo para impulsar tu innovación en IA? 💻\n[Este post fue generado automáticamente con Amazon Bedrock IA – Fuente: https://aws.amazon.com/blogs/aws/feed/]\nEste post fue generado automáticamente usando AWS Lambda + Amazon Bedrock + GitHub Actions."
   },
   {
     "objectID": "posts/2025-12-02-linkedin-auto.html",

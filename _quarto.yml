@@ -18,6 +18,10 @@ website:
         href: api-demo.qmd
       - text: Workflow
         href: workflow.qmd
+    right:
+      - icon: github
+        href: https://github.com/borizSam
+        aria-label: GitHub
 format:
   html:
     theme:
