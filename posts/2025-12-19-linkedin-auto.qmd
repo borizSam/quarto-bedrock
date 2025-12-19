@@ -1,0 +1,19 @@
+---
+title: "AWS Weekly Roundup: Amazon ECS, Amazon CloudWatch, Amazon Cognito and more (December 15, 2025)"
+date: "2025-12-19"
+categories: [AWS, DevOps, Automation, AI]
+---
+
+¡Atentos! Resumen semanal de AWS
+
+⚡ Novedades en Amazon ECS, CloudWatch y Cognito
+🚀 Mejoras y nuevas funciones para impulsar tu nube
+💡 Mantente actualizado con los últimos avances
+
+#AWS #InnovacionCloud #DevOps #TechNews
+
+¿Estás listo para aprovechar al máximo estas actualizaciones?
+
+[Este post fue generado automáticamente con Amazon Bedrock IA – Fuente: https://aws.amazon.com/blogs/aws/feed/]
+
+_Este post fue generado automáticamente usando AWS Lambda + Amazon Bedrock + GitHub Actions._
