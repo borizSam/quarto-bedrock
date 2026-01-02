@@ -1,0 +1,19 @@
+---
+title: "AWS Weekly Roundup: AWS re:Invent keynote recap, on-demand videos, and more (December 8, 2025)"
+date: "2026-01-02"
+categories: [AWS, DevOps, Automation, AI]
+---
+
+¿Listo para desbloquear nuevas oportunidades? 🚀
+
+AWS re:Invent 2025 fue un éxito rotundo, con anuncios revolucionarios que transformarán la forma en que trabajamos. 💡
+
+➡️ Descubre los principales lanzamientos
+➡️ Accede a videos bajo demanda
+➡️ Aprende a aprovechar al máximo las novedades
+
+#AWSlnvent #InnovacionCloud #Nube #Tecnologia
+
+[Este post fue generado automáticamente con Amazon Bedrock IA – Fuente: https://aws.amazon.com/blogs/aws/feed/]
+
+_Este post fue generado automáticamente usando AWS Lambda + Amazon Bedrock + GitHub Actions._
