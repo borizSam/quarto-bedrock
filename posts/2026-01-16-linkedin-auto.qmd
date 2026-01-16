@@ -1,0 +1,22 @@
+---
+title: "Happy New Year! AWS Weekly Roundup: 10,000 AIdeas Competition, Amazon EC2, Amazon ECS Managed Instances and more (January 5, 2026)"
+date: "2026-01-16"
+categories: [AWS, DevOps, Automation, AI]
+---
+
+¡Empieza el año con fuerza!
+
+AWS anuncia nueva competencia #10000AIdeas
+Grandes premios para soluciones innovadoras
+
+Novedades en #AmazonEC2 y #AmazonECSManagedInstances
+Mejora el rendimiento de tus cargas de trabajo
+
+¿Quieres ser un #SolutionsArchitect?
+Únete al nuevo curso #BeSA de AWS
+
+#InnovacionCloud #Aprendizaje #TransformaciónDigital
+
+[Este post fue generado automáticamente con Amazon Bedrock IA – Fuente: https://aws.amazon.com/blogs/aws/feed/]
+
+_Este post fue generado automáticamente usando AWS Lambda + Amazon Bedrock + GitHub Actions._
