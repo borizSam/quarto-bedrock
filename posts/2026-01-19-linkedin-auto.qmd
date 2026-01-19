@@ -1,0 +1,21 @@
+---
+title: "Opening the AWS European Sovereign Cloud"
+date: "2026-01-19"
+categories: [AWS, DevOps, Automation, AI]
+---
+
+¡Nube Soberana Europea de AWS disponible! 🇪🇺✨
+
+Accede a una nube diseñada para cumplir con las #regulaciones europeas.
+
+➡️ Mayor #control y #soberanía de datos
+➡️ Perfecta para sector público y sectores regulados
+➡️ Mismo modelo operativo y servicios que AWS
+
+Impulsa tu transformación #digital de forma segura.
+
+#NubeSoberana #AWS #InfraestructuraCloud
+
+[Este post fue generado automáticamente con Amazon Bedrock IA – Fuente: https://aws.amazon.com/blogs/aws/feed/]
+
+_Este post fue generado automáticamente usando AWS Lambda + Amazon Bedrock + GitHub Actions._
