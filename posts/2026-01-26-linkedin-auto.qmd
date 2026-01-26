@@ -1,0 +1,19 @@
+---
+title: "AWS Weekly Roundup: AWS Lambda for .NET 10, AWS Client VPN quickstart, Best of AWS re:Invent, and more (January 12, 2026)"
+date: "2026-01-26"
+categories: [AWS, DevOps, Automation, AI]
+---
+
+¿Listo para llevar tu resolución de Inteligencia Artificial y Cloud Computing al siguiente nivel? 🚀
+
+🆓 Crea una cuenta AWS Free Tier y recibe hasta $200 en créditos.
+💻 Explora AWS Lambda for .NET 10, AWS Client VPN y lo mejor de AWS re:Invent.
+⏲️ 6 meses de prueba sin riesgo para dominar las tecnologías del futuro.
+
+¡Acelera tu carrera en 2026! 🌐
+
+#CloudComputing #AWSLambda #AWSreInvent #CarreraProfesional #Tecnología
+
+[Este post fue generado automáticamente con Amazon Bedrock IA – Fuente: https://aws.amazon.com/blogs/aws/feed/]
+
+_Este post fue generado automáticamente usando AWS Lambda + Amazon Bedrock + GitHub Actions._
