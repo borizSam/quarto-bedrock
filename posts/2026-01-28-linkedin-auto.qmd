@@ -1,0 +1,21 @@
+---
+title: "Announcing Amazon EC2 G7e instances accelerated by NVIDIA RTX PRO 6000 Blackwell Server Edition GPUs"
+date: "2026-01-28"
+categories: [AWS, DevOps, Automation, AI]
+---
+
+¡AWS presenta las instancias EC2 G7e! 🚀
+
+✅ Aceleradas por GPUs NVIDIA RTX PRO 6000
+⚡ Hasta 2.3x mejor rendimiento en inferencia de IA generativa
+💰 Mayor rendimiento y eficiencia en costos
+
+¡Ideales para cargas de trabajo de:
+- Inteligencia Artificial Generativa 🤖
+- Gráficos avanzados 🎨
+
+#AWS #EC2 #NVIDIABlackwell #IA #InferenciadeIA #GPUs
+
+[Este post fue generado automáticamente con Amazon Bedrock IA – Fuente: https://aws.amazon.com/blogs/aws/feed/]
+
+_Este post fue generado automáticamente usando AWS Lambda + Amazon Bedrock + GitHub Actions._
