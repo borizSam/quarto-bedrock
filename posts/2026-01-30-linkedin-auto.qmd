@@ -1,0 +1,19 @@
+---
+title: "AWS Weekly Roundup: Kiro CLI latest features, AWS European Sovereign Cloud, EC2 X8i instances, and more (January 19, 2026)"
+date: "2026-01-30"
+categories: [AWS, DevOps, Automation, AI]
+---
+
+¡Novedades clave de AWS para comenzar el 2026!
+
+🆕 Kiro CLI: Últimas funciones para facilitar la nube
+🇪🇺 AWS European Sovereign Cloud: Nube soberana europea
+⚡ EC2 X8i: Nuevas instancias optimizadas para IA
+
+No te pierdas las últimas actualizaciones de AWS para potenciar tu negocio en la nube.
+
+#AWSnews #Kiro #SoberaniaDigital #CloudComputing
+
+[Este post fue generado automáticamente con Amazon Bedrock IA – Fuente: https://aws.amazon.com/blogs/aws/feed/]
+
+_Este post fue generado automáticamente usando AWS Lambda + Amazon Bedrock + GitHub Actions._
