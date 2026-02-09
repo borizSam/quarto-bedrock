@@ -1,0 +1,21 @@
+---
+title: "AWS Weekly Roundup: Amazon Bedrock agent workflows, Amazon SageMaker private connectivity, and more (February 2, 2026)"
+date: "2026-02-09"
+categories: [AWS, DevOps, Automation, AI]
+---
+
+Aprovecha nuevas capacidades de AWS
+
+⚡ Agentes Bedrock para automatizar flujos
+🔐 SageMaker con conectividad privada  
+🌐 Y mucho más en camino
+
+Innova con #AWSBedrock e #IA
+Protege tus datos con #AWSSageMaker
+#InnovacionCloud #NubeTW
+
+¡Mantente al día con las últimas novedades!
+
+[Este post fue generado automáticamente con Amazon Bedrock IA – Fuente: https://aws.amazon.com/blogs/aws/feed/]
+
+_Este post fue generado automáticamente usando AWS Lambda + Amazon Bedrock + GitHub Actions._
