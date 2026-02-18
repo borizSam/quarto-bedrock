@@ -1,0 +1,24 @@
+---
+title: "Amazon EC2 C8id, M8id, and R8id instances with up to 22.8 TB local NVMe storage are generally available"
+date: "2026-02-18"
+categories: [AWS, DevOps, Automation, AI]
+---
+
+¡Nuevas Instancias EC2 con Almacenamiento NVMe Local de hasta 22.8 TB!
+
+🚀 AWS lanza las Instancias C8id, M8id y R8id con:
+- 3X más vCPUs, memoria y almacenamiento local
+- Hasta 22.8 TB de almacenamiento NVMe SSD
+
+⚡ Rendimiento y capacidad ideales para:
+- Bases de datos
+- Análisis de big data
+- Procesamiento de alta velocidad
+
+¡Escala tus cargas de trabajo críticas!
+
+#AWSNoticias #EC2 #NVMeStorage #CloudComputing
+
+[Este post fue generado automáticamente con Amazon Bedrock IA – Fuente: https://aws.amazon.com/blogs/aws/feed/]
+
+_Este post fue generado automáticamente usando AWS Lambda + Amazon Bedrock + GitHub Actions._
