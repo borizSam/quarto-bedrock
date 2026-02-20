@@ -1,0 +1,21 @@
+---
+title: "Announcing Amazon SageMaker Inference for custom Amazon Nova models"
+date: "2026-02-20"
+categories: [AWS, DevOps, Automation, AI]
+---
+
+¿Buscas acelerar tus modelos de IA? 🚀
+
+Amazon SageMaker Inference para modelos Nova personalizados te permite:
+
+✅ Configurar tipos de instancia
+✅ Definir políticas de autoescalado
+✅ Ajustar la concurrencia
+
+Optimiza el rendimiento y los costos de tus implementaciones de IA a medida. 🎯
+
+#AWSSageMaker #AmazonNova #InferenciaDeModelos #IA #AprendizajeAutomático
+
+[Este post fue generado automáticamente con Amazon Bedrock IA – Fuente: https://aws.amazon.com/blogs/aws/feed/]
+
+_Este post fue generado automáticamente usando AWS Lambda + Amazon Bedrock + GitHub Actions._
