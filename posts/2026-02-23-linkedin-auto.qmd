@@ -1,0 +1,20 @@
+---
+title: "AWS Weekly Roundup: Claude Opus 4.6 in Amazon Bedrock, AWS Builder ID Sign in with Apple, and more (February 9, 2026)"
+date: "2026-02-23"
+categories: [AWS, DevOps, Automation, AI]
+---
+
+¡Noticias emocionantes de AWS!
+
+🚀 Amazon Bedrock IA presenta Claude Opus 4.6
+👥 AWS Builder ID: Inicia sesión con Apple 
+⚡️ Nuevas instancias EC2 C8id, M8id y R8id
+
+Mantente al día con las últimas innovaciones en la nube de AWS.
+¡Escala tu negocio con tecnología de vanguardia!
+
+#AWS #InnovacionTecnologica #CloudComputing #IA
+
+[Este post fue generado automáticamente con Amazon Bedrock IA – Fuente: https://aws.amazon.com/blogs/aws/feed/]
+
+_Este post fue generado automáticamente usando AWS Lambda + Amazon Bedrock + GitHub Actions._
