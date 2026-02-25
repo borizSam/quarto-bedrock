@@ -1,0 +1,19 @@
+---
+title: "AWS Weekly Roundup: Claude Sonnet 4.6 in Amazon Bedrock, Kiro in GovCloud Regions, new Agent Plugins, and more (February 23, 2026)"
+date: "2026-02-25"
+categories: [AWS, DevOps, Automation, AI]
+---
+
+🤖 ¡Novedades en AWS! 🆕
+
+Llega Claude Sonnet 4.6 en Amazon Bedrock
+Colaboración Humano-IA con Kiro en GovCloud
+Nuevos plugins de agentes para agilizar el desarrollo
+
+¡Mantente al día con las últimas tendencias!
+
+#AmazonBedrock #Kiro #DesarrolloAgil #IA
+
+[Este post fue generado automáticamente con Amazon Bedrock IA – Fuente: https://aws.amazon.com/blogs/aws/feed/]
+
+_Este post fue generado automáticamente usando AWS Lambda + Amazon Bedrock + GitHub Actions._
