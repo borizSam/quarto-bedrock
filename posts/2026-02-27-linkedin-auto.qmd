@@ -1,0 +1,20 @@
+---
+title: "Amazon EC2 Hpc8a Instances powered by 5th Gen AMD EPYC processors are now available"
+date: "2026-02-27"
+categories: [AWS, DevOps, Automation, AI]
+---
+
+Acelera tus cargas de trabajo de HPC con las nuevas instancias Amazon EC2 Hpc8a
+
+⚡ Potenciadas por los procesadores AMD EPYC de 5ª generación
+🚀 Hasta 40% más rendimiento que las instancias anteriores
+📈 Mayor ancho de banda de memoria y redes de 300 Gbps
+⏱️ Ideales para simulaciones intensivas, ingeniería y aplicaciones HPC
+
+¡Maximiza el poder de cómputo con AWS!
+
+#HPC #AWSCompute #EPYC #PerformanceComputing #CloudInnovation
+
+[Este post fue generado automáticamente con Amazon Bedrock IA – Fuente: https://aws.amazon.com/blogs/aws/feed/]
+
+_Este post fue generado automáticamente usando AWS Lambda + Amazon Bedrock + GitHub Actions._
