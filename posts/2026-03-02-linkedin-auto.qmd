@@ -1,0 +1,19 @@
+---
+title: "Transform live video for mobile audiences with AWS Elemental Inference"
+date: "2026-03-02"
+categories: [AWS, DevOps, Automation, AI]
+---
+
+¿Quieres llegar a audiencias móviles sin esfuerzo?
+
+AWS Elemental Inference transforma automáticamente tus transmisiones en vivo y a pedido en formatos verticales optimizados para plataformas móviles y redes sociales en tiempo real.
+
+Llega a TikTok, Instagram Reels y YouTube Shorts sin edición manual ni experiencia en IA.
+
+Aprovecha esta oportunidad para estar donde está tu audiencia.
+
+#AWSElementalInference #TransformacionDeVideo #MarketingDigital #RedesSociales
+
+[Este post fue generado automáticamente con Amazon Bedrock IA – Fuente: https://aws.amazon.com/blogs/aws/feed/]
+
+_Este post fue generado automáticamente usando AWS Lambda + Amazon Bedrock + GitHub Actions._
