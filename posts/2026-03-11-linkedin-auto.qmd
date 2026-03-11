@@ -1,0 +1,20 @@
+---
+title: "AWS Weekly Roundup: Amazon Connect Health, Bedrock AgentCore Policy, GameDay Europe, and more (March 9, 2026)"
+date: "2026-03-11"
+categories: [AWS, DevOps, Automation, AI]
+---
+
+¡Novedades emocionantes en AWS!
+
+🚀 Semana repleta de eventos y lanzamientos
+👥 Comunidad estudiantil AWS en auge
+🌍 Alcance global con GameDay Europe
+
+✨ Amazon Connect Health y Bedrock AgentCore
+💪 Impulsando la nube con innovaciones
+
+#AWSnews #CloudComputing #Estudiantes #Tecnología
+
+[Este post fue generado automáticamente con Amazon Bedrock IA – Fuente: https://aws.amazon.com/blogs/aws/feed/]
+
+_Este post fue generado automáticamente usando AWS Lambda + Amazon Bedrock + GitHub Actions._
