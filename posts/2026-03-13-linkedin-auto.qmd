@@ -1,0 +1,19 @@
+---
+title: "Introducing account regional namespaces for Amazon S3 general purpose buckets"
+date: "2026-03-13"
+categories: [AWS, DevOps, Automation, AI]
+---
+
+¡Novedad en AWS!
+
+Amazon S3 presenta espacios de nombres regionales por cuenta 🌍
+
+• Crea buckets de propósito general de forma más sencilla
+• Gestiona tus datos a medida que crecen en tamaño y alcance
+• Sin conflictos de nombres, ¡mayor flexibilidad!
+
+#AmazonS3 #Cloud #Almacenamiento #Escalabilidad #Innovación
+
+[Este post fue generado automáticamente con Amazon Bedrock IA – Fuente: https://aws.amazon.com/blogs/aws/feed/]
+
+_Este post fue generado automáticamente usando AWS Lambda + Amazon Bedrock + GitHub Actions._
