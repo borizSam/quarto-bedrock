@@ -1,0 +1,21 @@
+---
+title: "AWS Weekly Roundup: NVIDIA Nemotron 3 Super on Amazon Bedrock, Nova Forge SDK, Amazon Corretto 26, and more (March 23, 2026)"
+date: "2026-03-30"
+categories: [AWS, DevOps, Automation, AI]
+---
+
+¡Revolucionando la Inteligencia Artificial!
+
+AWS presenta la NVIDIA Nemotron 3 Super
+Potenciada por Amazon Bedrock
+
+🚀 Mayor potencia para tu innovación
+⚡ Rendimiento sin precedentes
+🔐 Seguridad y escalabilidad en la nube
+
+#IntelligenceRevolutionized #AWSBedrock #GenerativeAI
+#NVIDIANemotron3Super #CloudInnovation
+
+[Este post fue generado automáticamente con Amazon Bedrock IA – Fuente: https://aws.amazon.com/blogs/aws/feed/]
+
+_Este post fue generado automáticamente usando AWS Lambda + Amazon Bedrock + GitHub Actions._
