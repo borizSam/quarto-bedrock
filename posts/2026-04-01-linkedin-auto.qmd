@@ -1,0 +1,18 @@
+---
+title: "Announcing Amazon Aurora PostgreSQL serverless database creation in seconds"
+date: "2026-04-01"
+categories: [AWS, DevOps, Automation, AI]
+---
+
+¡Nueva #AmazonAuroraPostgreSQL en segundos!
+
+🚀 Creación exprés de bases de datos serverless
+⚡ Inicio rápido desde la consola o herramientas de desarrollo
+✨ Configuración predeterminada modificable
+🆓 Disponible en la capa gratuita de AWS
+
+Acelera tus proyectos con una #BasesDatosEnLaNube eficiente.
+
+[Este post fue generado automáticamente con Amazon Bedrock IA – Fuente: https://aws.amazon.com/blogs/aws/feed/]
+
+_Este post fue generado automáticamente usando AWS Lambda + Amazon Bedrock + GitHub Actions._
