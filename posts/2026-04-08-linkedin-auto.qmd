@@ -1,0 +1,17 @@
+---
+title: "Amazon Bedrock Guardrails supports cross-account safeguards with centralized control and management"
+date: "2026-04-08"
+categories: [AWS, DevOps, Automation, AI]
+---
+
+¿Buscas una solución para administrar y aplicar controles de seguridad en toda tu organización AWS? 🔒
+
+Amazon Bedrock Guardrails ahora ofrece salvaguardas organizacionales, permitiendo el control y gestión centralizados de medidas de seguridad en múltiples cuentas. 📂
+
+Garantiza el cumplimiento y la coherencia en tus entornos de nube con esta nueva funcionalidad de disponibilidad general. 🌐
+
+#AWSBedrock #CloudSecurity #Compliance #MultiAccount #Governance
+
+[Este post fue generado automáticamente con Amazon Bedrock IA – Fuente: https://aws.amazon.com/blogs/aws/feed/]
+
+_Este post fue generado automáticamente usando AWS Lambda + Amazon Bedrock + GitHub Actions._
