@@ -1,0 +1,22 @@
+---
+title: "Announcing managed daemon support for Amazon ECS Managed Instances"
+date: "2026-04-13"
+categories: [AWS, DevOps, Automation, AI]
+---
+
+¡Atención, ingenieros de plataformas! 🚀
+
+Presentamos Amazon ECS Managed Daemons 💻
+Para un control independiente de agentes de monitoreo, registro y seguimiento.
+
+✅ Implementación coherente de daemons
+✅ Observabilidad integral de hosts a escala
+✅ Sin coordinación con equipos de aplicaciones
+
+¡Impulsa la observabilidad de tus cargas de trabajo!
+
+#AmazonECS #DevOps #Observabilidad #Escalabilidad
+
+[Este post fue generado automáticamente con Amazon Bedrock IA – Fuente: https://aws.amazon.com/blogs/aws/feed/]
+
+_Este post fue generado automáticamente usando AWS Lambda + Amazon Bedrock + GitHub Actions._
