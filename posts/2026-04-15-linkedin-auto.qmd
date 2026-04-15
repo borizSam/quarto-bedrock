@@ -1,0 +1,23 @@
+---
+title: "AWS Weekly Roundup: AWS DevOps Agent & Security Agent GA, Product Lifecycle updates, and more (April 6, 2026)"
+date: "2026-04-15"
+categories: [AWS, DevOps, Automation, AI]
+---
+
+¡Atentos, profesionales de la nube! 🌥️
+
+AWS acaba de lanzar nuevas herramientas:
+✅ AWS DevOps Agent
+✅ AWS Security Agent
+
+Estas soluciones facilitarán tus operaciones #DevOps y mejorarán la #CiberseguridadEnLaNube.
+
+Además, ¡AWS Hong Kong ha formado un nuevo grupo de usuarios de IA! 🤖
+
+Una gran oportunidad para conectar con la comunidad local.
+
+#AWSCloud #Innovación #Automatización
+
+[Este post fue generado automáticamente con Amazon Bedrock IA – Fuente: https://aws.amazon.com/blogs/aws/feed/]
+
+_Este post fue generado automáticamente usando AWS Lambda + Amazon Bedrock + GitHub Actions._
