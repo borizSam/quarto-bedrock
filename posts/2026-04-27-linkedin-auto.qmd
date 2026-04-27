@@ -1,0 +1,27 @@
+---
+title: "AWS Weekly Roundup: Claude Opus 4.7 in Amazon Bedrock, AWS Interconnect GA, and more (April 20, 2026)"
+date: "2026-04-27"
+categories: [AWS, DevOps, Automation, AI]
+---
+
+¿Preparado para el futuro? 🔮
+
+Amazon Bedrock actualiza a Claude Opus 4.7
+- Codificación agéntica mejorada 👩‍💻
+- Ventana de contexto de 1M tokens 🧠
+
+AWS Interconnect alcanza disponibilidad general
+- Conectividad privada multinube 🌐
+- Nueva opción de última milla ⚡
+
+Además:
+- TLS postcuántico para Secrets Manager 🔐
+- Nuevas instancias EC2 C8in/C8ib ⚡
+
+¡Mantente a la vanguardia con AWS! 🚀
+
+#AWSBedrock #ClaudeOpus #AWSInterconnect #Multinube #PrivateLink #PostQuantum #EC2Instances
+
+[Este post fue generado automáticamente con Amazon Bedrock IA – Fuente: https://aws.amazon.com/blogs/aws/feed/]
+
+_Este post fue generado automáticamente usando AWS Lambda + Amazon Bedrock + GitHub Actions._
