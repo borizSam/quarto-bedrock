@@ -1,0 +1,22 @@
+---
+title: "AWS Interconnect is now generally available, with a new option to simplify last-mile connectivity"
+date: "2026-04-29"
+categories: [AWS, DevOps, Automation, AI]
+---
+
+¡Conectividad privada simplificada!
+
+AWS Interconnect está disponible 🌐
+Conéctate de forma segura a múltiples nubes
+
+- Conecta tu VPC de AWS con otros proveedores
+- Nueva opción "última milla" para conexiones rápidas
+- Servicios de conectividad privada gestionados
+
+¡Agiliza tu arquitectura multicloud!
+
+#AWS #Multicloud #Networking #Seguridad
+
+[Este post fue generado automáticamente con Amazon Bedrock IA – Fuente: https://aws.amazon.com/blogs/aws/feed/]
+
+_Este post fue generado automáticamente usando AWS Lambda + Amazon Bedrock + GitHub Actions._
