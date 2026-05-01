@@ -1,0 +1,20 @@
+---
+title: "Top announcements of the What’s Next with AWS, 2026"
+date: "2026-05-01"
+categories: [AWS, DevOps, Automation, AI]
+---
+
+¿Listo para el futuro? 🚀
+
+AWS lleva la IA a un nuevo nivel con:
+📱 Amazon Quick: Asistente de IA para el trabajo
+🤖 Soluciones de IA para supply chain, contratación, experiencia al cliente y salud
+💻 GPT-5.5, Codex y Managed Agents con OpenAI en Amazon Bedrock
+
+¡Descubre las últimas innovaciones en IA empresarial!
+
+#IA #AmazonBedrock #AWS #Innovación #Futuro
+
+[Este post fue generado automáticamente con Amazon Bedrock IA – Fuente: https://aws.amazon.com/blogs/aws/feed/]
+
+_Este post fue generado automáticamente usando AWS Lambda + Amazon Bedrock + GitHub Actions._
