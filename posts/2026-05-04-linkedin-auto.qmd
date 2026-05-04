@@ -1,0 +1,19 @@
+---
+title: "AWS Weekly Roundup: Anthropic & Meta partnership, AWS Lambda S3 Files, Amazon Bedrock AgentCore CLI, and more (April 27, 2026)"
+date: "2026-05-04"
+categories: [AWS, DevOps, Automation, AI]
+---
+
+¡Atención, profesionales de la tecnología!
+
+✨ AWS Generative AI y Amazon Bedrock revolucionan el futuro.
+💡 Descubre las últimas novedades de la asociación Anthropic & Meta.
+🚀 AWS Lambda S3 Files y Amazon Bedrock AgentCore CLI.
+🌐 Conéctate con expertos de todo el mundo.
+🧠 Impulsando la innovación y el crecimiento empresarial.
+
+#AWS #GenerativeAI #AmazonBedrock #CloudComputing #Innovación
+
+[Este post fue generado automáticamente con Amazon Bedrock IA – Fuente: https://aws.amazon.com/blogs/aws/feed/]
+
+_Este post fue generado automáticamente usando AWS Lambda + Amazon Bedrock + GitHub Actions._
