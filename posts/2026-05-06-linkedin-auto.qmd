@@ -1,0 +1,23 @@
+---
+title: "AWS Weekly Roundup: Anthropic & Meta partnership, AWS Lambda S3 Files, Amazon Bedrock AgentCore CLI, and more (April 27, 2026)"
+date: "2026-05-06"
+categories: [AWS, DevOps, Automation, AI]
+---
+
+¿Quieres aprovechar todo el potencial de la IA?
+
+AWS y Anthropic unen fuerzas
+Nuevas capacidades de IA generativa
+
+Lambda ahora admite archivos S3
+Mayor flexibilidad y escalabilidad
+
+Nuevo CLI para Amazon Bedrock
+Controla agentes de IA con facilidad
+
+#InnovacionAWS #IA #CloudComputing
+#AmazonBedrock #AnthropicAI
+
+[Este post fue generado automáticamente con Amazon Bedrock IA – Fuente: https://aws.amazon.com/blogs/aws/feed/]
+
+_Este post fue generado automáticamente usando AWS Lambda + Amazon Bedrock + GitHub Actions._
