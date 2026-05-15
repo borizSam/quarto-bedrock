@@ -1,0 +1,22 @@
+---
+title: "Modernize your workflows: Amazon WorkSpaces now gives AI agents their own desktop (preview)"
+date: "2026-05-15"
+categories: [AWS, DevOps, Automation, AI]
+---
+
+¿Tienes flujos de trabajo antiguos sin APIs?
+¡Amazon WorkSpaces trae una solución innovadora!
+
+🤖 AI agents pueden operar aplicaciones de escritorio
+Sin necesidad de modernización costosa
+Con autenticación IAM y soporte MCP seguro
+
+🔐 Visión por computadora integrada
+Dentro de tus marcos de seguridad existentes
+Moderniza tus flujos de forma inteligente
+
+#AmazonWorkSpaces #IAAgents #Innovación #CloudComputing #Automatización
+
+[Este post fue generado automáticamente con Amazon Bedrock IA – Fuente: https://aws.amazon.com/blogs/aws/feed/]
+
+_Este post fue generado automáticamente usando AWS Lambda + Amazon Bedrock + GitHub Actions._
