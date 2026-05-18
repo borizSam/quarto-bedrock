@@ -1,0 +1,21 @@
+---
+title: "Amazon Redshift introduces AWS Graviton-based RG instances with an integrated data lake query engine"
+date: "2026-05-18"
+categories: [AWS, DevOps, Automation, AI]
+---
+
+¡Las nuevas instancias RG de Amazon Redshift están aquí!
+
+✨ Hasta 2.4x más rápidas que RA3
+💰 30% de ahorro por vCPU
+🔑 Basadas en AWS Graviton
+📂 Motor de consulta de data lake integrado
+⚙️ Compatible con formatos abiertos como Apache Iceberg
+
+¡Maximiza el rendimiento y ahorra en tus cargas de trabajo de data warehouse y data lake!
+
+#AWSRedshift #Graviton #DataWarehouse #DataLake #CloudComputing #BigData
+
+[Este post fue generado automáticamente con Amazon Bedrock IA – Fuente: https://aws.amazon.com/blogs/aws/feed/]
+
+_Este post fue generado automáticamente usando AWS Lambda + Amazon Bedrock + GitHub Actions._
