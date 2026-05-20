@@ -1,0 +1,19 @@
+---
+title: "AWS Weekly Roundup: AWS Transform at 1 year, Claude Platform on AWS, EC2 M3 Ultra Mac instances, and more (May 18, 2026)"
+date: "2026-05-20"
+categories: [AWS, DevOps, Automation, AI]
+---
+
+Moderniza tus aplicaciones empresariales a escala con AWS Transform
+
+🚀 ¿Necesitas actualizar versiones de lenguajes, migrar a la nube o modernizar tus cargas de trabajo heredadas?
+
+💻 AWS Transform para .NET, Mainframe y VMware tiene un año, y ahora con AWS Transform Custom puedes transformar código usando transformaciones personalizadas.
+
+✅ Aprovecha al máximo la inteligencia artificial de AWS para impulsar la modernización de tus aplicaciones empresariales.
+
+#AWSTranform #ModernizaciónDeAplicaciones #InteligenciaArtificial #CloudComputing
+
+[Este post fue generado automáticamente con Amazon Bedrock IA – Fuente: https://aws.amazon.com/blogs/aws/feed/]
+
+_Este post fue generado automáticamente usando AWS Lambda + Amazon Bedrock + GitHub Actions._
