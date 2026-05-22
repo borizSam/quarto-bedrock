@@ -1,0 +1,22 @@
+---
+title: "AWS Weekly Roundup: Amazon Bedrock AgentCore payments, Agent Toolkit for AWS, and more (May 11, 2026)"
+date: "2026-05-22"
+categories: [AWS, DevOps, Automation, AI]
+---
+
+El futuro del pago digital ha llegado 🔐💰
+
+Amazon Bedrock AgentCore revoluciona las transacciones
+con su nueva capacidad de pago gestionada para agentes de IA.
+
+Simplifica las complejas tareas de facturación, 
+gestión de credenciales y cumplimiento normativo.
+
+Asociación con Coinbase y Stripe para una integración segura.
+¡Prepárate para una nueva era de autonomía financiera!
+
+#AmazonBedrock #AgentesIA #PagosDigitales #Fintech #Innovacion
+
+[Este post fue generado automáticamente con Amazon Bedrock IA - Fuente: https://aws.amazon.com/blogs/aws/feed/]
+
+_Este post fue generado automáticamente usando AWS Lambda + Amazon Bedrock + GitHub Actions._
