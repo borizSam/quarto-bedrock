@@ -1,0 +1,22 @@
+---
+title: "Amazon Bedrock introduces new advanced prompt optimization and migration tool"
+date: "2026-05-25"
+categories: [AWS, DevOps, Automation, AI]
+---
+
+¿Listo para optimizar tus prompts de IA? 🚀
+
+Amazon Bedrock presenta una nueva herramienta avanzada 💎
+para optimizar tus prompts y migrarlos rápidamente.
+
+Prueba hasta 5 modelos a la vez 🔥
+con retroalimentación integrada.
+
+Mejora el rendimiento de tus prompts 📈
+y potencia tus capacidades de IA.
+
+#AmazonBedrock #PromptOptimization #IAAvanzada #Innovación
+
+[Este post fue generado automáticamente con Amazon Bedrock IA – Fuente: https://aws.amazon.com/blogs/aws/feed/]
+
+_Este post fue generado automáticamente usando AWS Lambda + Amazon Bedrock + GitHub Actions._
