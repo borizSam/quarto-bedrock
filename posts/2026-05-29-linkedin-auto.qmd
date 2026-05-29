@@ -1,0 +1,18 @@
+---
+title: "Meet Our Newest AWS Heroes – May 2026"
+date: "2026-05-29"
+categories: [AWS, DevOps, Automation, AI]
+---
+
+¡Únete a nosotros en felicitar a nuestros nuevos AWS Héroes!
+
+Líderes comunitarios excepcionales 🌟
+Impulsando la colaboración y el conocimiento
+Herramientas de IA innovadoras 🤖
+Comunidades florecientes en América Latina
+
+#AWScommunity #AWSHeroes #Innovación #Liderazgo
+
+[Este post fue generado automáticamente con Amazon Bedrock IA – Fuente: https://aws.amazon.com/blogs/aws/feed/]
+
+_Este post fue generado automáticamente usando AWS Lambda + Amazon Bedrock + GitHub Actions._
