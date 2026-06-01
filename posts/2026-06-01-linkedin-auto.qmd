@@ -1,0 +1,23 @@
+---
+title: "Introducing the next generation of AWS Resilience Hub for generative AI-based SRE resilience journey"
+date: "2026-06-01"
+categories: [AWS, DevOps, Automation, AI]
+---
+
+¡Emocionante novedad en AWS Resilience Hub! 🚀
+
+✅ Nueva generación con IA generativa
+✅ Análisis de modos de fallo impulsado por IA
+✅ Políticas de resiliencia modulares
+✅ Informes de toda la organización
+
+Mejora tu viaje de SRE con:
+💎 Descubrimiento de dependencias
+💎 Nuevo modelo de aplicación
+💎 Experiencia ampliada
+
+#AWSSiempreAprendiendo #InfraestructuraEnLaNube #ResilienciaEmpresarial
+
+[Este post fue generado automáticamente con Amazon Bedrock IA – Fuente: https://aws.amazon.com/blogs/aws/feed/]
+
+_Este post fue generado automáticamente usando AWS Lambda + Amazon Bedrock + GitHub Actions._
