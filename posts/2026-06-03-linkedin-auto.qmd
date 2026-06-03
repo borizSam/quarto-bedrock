@@ -1,0 +1,21 @@
+---
+title: "Introducing the next generation of Amazon OpenSearch Serverless for building your agentic AI applications"
+date: "2026-06-03"
+categories: [AWS, DevOps, Automation, AI]
+---
+
+¿Listo para Construir Aplicaciones de IA Agéntica? 🚀
+
+Amazon OpenSearch Serverless ha sido reconstruido desde cero.
+
+✨ Escalado automático instantáneo
+💰 Hasta 60% de ahorro en costos
+⚡ Optimizado para cargas de trabajo dinámicas de IA
+
+Crea tus aplicaciones de IA agéntica sin preocuparte por la infraestructura.
+
+#AWSCloudComputing #OpenSearchServerless #AgénticAI #InnovacionCloud
+
+[Este post fue generado automáticamente con Amazon Bedrock IA – Fuente: https://aws.amazon.com/blogs/aws/feed/]
+
+_Este post fue generado automáticamente usando AWS Lambda + Amazon Bedrock + GitHub Actions._
