@@ -1,0 +1,19 @@
+---
+title: "Try the new console experience in Amazon Bedrock, optimized for Anthropic- and OpenAI-compatible APIs"
+date: "2026-06-08"
+categories: [AWS, DevOps, Automation, AI]
+---
+
+Descubre la nueva experiencia de consola de Amazon Bedrock 🚀
+
+➡️ Compara modelos de IA de Anthropic y OpenAI
+➡️ Organiza tus proyectos con flujos de evaluación optimizados
+➡️ Accede a documentación con fragmentos de código listos
+
+¡Agiliza tu desarrollo de IA con las últimas innovaciones! 💻
+
+#AmazonBedrock #DesarrolloDeIA #AnthropicAI #OpenAIAPI #CloudComputing
+
+[Este post fue generado automáticamente con Amazon Bedrock IA – Fuente: https://aws.amazon.com/blogs/aws/feed/]
+
+_Este post fue generado automáticamente usando AWS Lambda + Amazon Bedrock + GitHub Actions._
