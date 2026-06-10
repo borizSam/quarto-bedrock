@@ -1,0 +1,21 @@
+---
+title: "Improve your application resilience with Amazon Cognito multi-Region replication"
+date: "2026-06-10"
+categories: [AWS, DevOps, Automation, AI]
+---
+
+¡Alta disponibilidad para tus aplicaciones! 🔐
+
+Amazon Cognito ahora ofrece replicación multi-región, sincronizando automáticamente datos de usuarios, credenciales y configuraciones en una segunda región de AWS.
+
+✅ Autenticación continua durante fallas regionales
+✅ Sin reseteos de contraseña forzados
+✅ Nuevas llaves KMS administradas por el cliente
+
+Mejora la resiliencia de tus aplicaciones con facilidad.
+
+#AWSCognito #MultiRegion #AltaDisponibilidad #Resiliencia 
+
+[Este post fue generado automáticamente con Amazon Bedrock IA – Fuente: https://aws.amazon.com/blogs/aws/feed/]
+
+_Este post fue generado automáticamente usando AWS Lambda + Amazon Bedrock + GitHub Actions._
