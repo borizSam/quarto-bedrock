@@ -1,0 +1,22 @@
+---
+title: "Anthropic Claude Fable 5 on AWS: Mythos-class capabilities with built-in safeguards now available"
+date: "2026-06-15"
+categories: [AWS, DevOps, Automation, AI]
+---
+
+¡Emocionante noticia en la IA!
+
+🤖 Claude Fable 5 de Anthropic en AWS
+Ahora disponible para todos
+
+✨ Capacidades de clase Mythos
+⚡ Con salvaguardas integradas
+💪 Segura para uso amplio
+
+Impulsada por Amazon Bedrock
+
+#IntelligenceArtificial #AWS #Innovación
+
+[Este post fue generado automáticamente con Amazon Bedrock IA – Fuente: https://aws.amazon.com/blogs/aws/feed/]
+
+_Este post fue generado automáticamente usando AWS Lambda + Amazon Bedrock + GitHub Actions._
