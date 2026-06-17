@@ -1,0 +1,20 @@
+---
+title: "Announcing Web Search on Amazon Bedrock AgentCore: Ground your AI agents in current, accurate web knowledge"
+date: "2026-06-17"
+categories: [AWS, DevOps, Automation, AI]
+---
+
+¿Cansado de agentes de IA con conocimientos obsoletos? 🌐
+
+AWS presenta Web Search en Amazon Bedrock AgentCore:
+⚡ Agentes basados en conocimientos web actualizados y precisos
+⚡ Cero fuga de datos de tu entorno AWS seguro
+⚡ Enfócate en construir agentes, no en agregar búsquedas web
+
+¡Eleva tus agentes de IA al siguiente nivel! 🚀
+
+#AWSBedrock #AgentCore #WebSearch #IA #NLU #NLP
+
+[Este post fue generado automáticamente con Amazon Bedrock IA – Fuente: https://aws.amazon.com/blogs/aws/feed/]
+
+_Este post fue generado automáticamente usando AWS Lambda + Amazon Bedrock + GitHub Actions._
