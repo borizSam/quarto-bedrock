@@ -1,0 +1,24 @@
+---
+title: "AWS Weekly Roundup: NY Summit recap, Local Zone in Hanoi, Grok 4.3 in Bedrock, price reductions, and more (June 22, 2026)"
+date: "2026-06-22"
+categories: [AWS, DevOps, Automation, AI]
+---
+
+¡Descubre las últimas innovaciones en la nube y la IA!
+
+En el AWS Summit de Nueva York, se presentaron:
+✨ Agentes de IA que generan valor compuesto
+✨ Nuevos lanzamientos impulsados por la IA
+✨ Reducción de precios en servicios clave
+
+Además, se anunció:
+🌍 Nueva Local Zone en Hanói
+⚡ Grok 4.3 en AWS Bedrock
+
+¡Mantente al día con las tendencias en la nube!
+
+#AWSCloud #InnovacionIA #ReduccionPrecios #LocalZones
+
+[Este post fue generado automáticamente con Amazon Bedrock IA – Fuente: https://aws.amazon.com/blogs/aws/feed/]
+
+_Este post fue generado automáticamente usando AWS Lambda + Amazon Bedrock + GitHub Actions._
