@@ -1,0 +1,21 @@
+---
+title: "Amazon ECS introduces new high-resolution metrics for faster service auto scaling"
+date: "2026-06-24"
+categories: [AWS, DevOps, Automation, AI]
+---
+
+¡Nuevas métricas de alta resolución en Amazon ECS! 🚀
+
+Escala automáticamente tus contenedores de forma más rápida y precisa con:
+
+📈 Escalado predictivo para patrones recurrentes
+⏰ Escalado programado para eventos planificados 
+⚡ Seguimiento de métricas en tiempo real
+
+Satisface la demanda de tus cargas de trabajo sin preocupaciones.
+
+#AWSCloud #Contenedores #DevOps #Escalabilidad
+
+[Este post fue generado automáticamente con Amazon Bedrock IA – Fuente: https://aws.amazon.com/blogs/aws/feed/]
+
+_Este post fue generado automáticamente usando AWS Lambda + Amazon Bedrock + GitHub Actions._
