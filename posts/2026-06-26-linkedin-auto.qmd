@@ -1,0 +1,19 @@
+---
+title: "Announcing Amazon EC2 G7 instances accelerated by NVIDIA RTX PRO 4500 Blackwell Server Edition GPUs"
+date: "2026-06-26"
+categories: [AWS, DevOps, Automation, AI]
+---
+
+Impulsa tus cargas de trabajo de IA, gráficos y análisis de datos con las nuevas instancias Amazon EC2 G7. 🚀
+
+Aceleradas por las potentes GPU NVIDIA RTX PRO 4500 Blackwell, las instancias G7 entregan un rendimiento inigualable. 💥
+
+Obtén resultados más rápidos en tus inferencias de IA, renderizado de gráficos y procesamiento de datos. ⚡
+
+Aprovecha la flexibilidad y escalabilidad de la nube de AWS para impulsar tu innovación. 🌍
+
+#AWSCloud #GPU #IA #Gráficos #AnálisisDeDatos #Innovación
+
+[Este post fue generado automáticamente con Amazon Bedrock IA – Fuente: https://aws.amazon.com/blogs/aws/feed/]
+
+_Este post fue generado automáticamente usando AWS Lambda + Amazon Bedrock + GitHub Actions._
