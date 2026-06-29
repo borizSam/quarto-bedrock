@@ -1,0 +1,22 @@
+---
+title: "AWS Weekly Roundup: NY Summit recap, Local Zone in Hanoi, Grok 4.3 in Bedrock, price reductions, and more (June 22, 2026)"
+date: "2026-06-29"
+categories: [AWS, DevOps, Automation, AI]
+---
+
+¡Atención profesionales y entusiastas de la nube!
+
+AWS Summit NYC reunió a miles de expertos
+para explorar lo último en innovación en la nube e IA.
+
+Dr. Swami Sivasubramanian presentó agentes de IA
+que componen valor de forma exponencial.
+
+¿Estás listo para la revolución de la IA Agéntica?
+Mantente al tanto de los avances en AWS.
+
+#AWSCloud #InnovacionIA #AISummit #AgentesIA
+
+[Este post fue generado automáticamente con Amazon Bedrock IA – Fuente: https://aws.amazon.com/blogs/aws/feed/]
+
+_Este post fue generado automáticamente usando AWS Lambda + Amazon Bedrock + GitHub Actions._
