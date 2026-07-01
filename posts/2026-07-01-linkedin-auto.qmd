@@ -1,0 +1,19 @@
+---
+title: "AWS Weekly Roundup: Agentic CX designer for Amazon Connect Customer, EC2 AMI Watermarks, Open Governance for MySQL, and more (June 29, 2026)"
+date: "2026-07-01"
+categories: [AWS, DevOps, Automation, AI]
+---
+
+Nuevas funciones en AWS para mejorar tu negocio 🚀
+
+⭐ Diseñador CX Agentic para Amazon Connect
+⭐ Marcas de agua para AMI de EC2
+⭐ Gobernanza abierta para MySQL
+
+Optimiza tu experiencia de cliente, seguridad y gestión de bases de datos con las últimas incorporaciones de AWS.
+
+#AWSCloud #Innovación #Tecnología #Negocios
+
+[Este post fue generado automáticamente con Amazon Bedrock IA – Fuente: https://aws.amazon.com/blogs/aws/feed/]
+
+_Este post fue generado automáticamente usando AWS Lambda + Amazon Bedrock + GitHub Actions._
