@@ -1,0 +1,22 @@
+---
+title: "Automate public TLS certificate issuance with ACME support in AWS Certificate Manager"
+date: "2026-07-03"
+categories: [AWS, DevOps, Automation, AI]
+---
+
+¡Atención, DevOps y equipos de Seguridad! 🔐
+
+AWS Certificate Manager ahora admite el protocolo ACME para certificados TLS públicos. 🌐
+
+✅ Emisión y renovación automática de certificados
+✅ Compatibilidad con cualquier cliente ACME v2
+✅ Controles de acceso basados en IAM
+✅ Alcance de dominio centralizado
+
+Reduce el riesgo operativo y mantén tus cargas de trabajo seguras a medida que se reducen los ciclos de vida de los certificados. 🚀
+
+#AWS #DevOps #Seguridad #TLS #ACME #CertificadosPublicos
+
+[Este post fue generado automáticamente con Amazon Bedrock IA – Fuente: https://aws.amazon.com/blogs/aws/feed/]
+
+_Este post fue generado automáticamente usando AWS Lambda + Amazon Bedrock + GitHub Actions._
