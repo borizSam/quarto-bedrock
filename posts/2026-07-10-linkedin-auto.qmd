@@ -1,0 +1,19 @@
+---
+title: "AWS Weekly Roundup: Claude Sonnet 5 on AWS, Amazon WorkSpaces for AI agents, AWS service availability updates, and more (July 6, 2026)"
+date: "2026-07-10"
+categories: [AWS, DevOps, Automation, AI]
+---
+
+¿Impulsa tus startups con la nube?
+
+Descubre cómo Claude Sonnet 5 en AWS, Amazon WorkSpaces para agentes de IA y las actualizaciones de disponibilidad de servicios AWS pueden potenciar tu startup.
+
+Conoce las historias reales de fundadores que resuelven problemas con la nube. 
+
+Aprovecha la escalabilidad y la agilidad de AWS para adaptarte rápidamente.
+
+#AWS #Startups #CloudComputing #Innovación
+
+[Este post fue generado automáticamente con Amazon Bedrock IA – Fuente: https://aws.amazon.com/blogs/aws/feed/]
+
+_Este post fue generado automáticamente usando AWS Lambda + Amazon Bedrock + GitHub Actions._
