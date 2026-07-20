@@ -1,0 +1,23 @@
+---
+title: "AWS Weekly Roundup: AWS Builder Center at 1 year, Network Scanning in Security Hub, Loom for AWS, and more (July 13, 2026)"
+date: "2026-07-20"
+categories: [AWS, DevOps, Automation, AI]
+---
+
+¡El Centro de Constructores de AWS cumple un año!
+
+🚀 Lanzado en julio de 2025, esta plataforma ha evolucionado:
+- Comunidad en crecimiento
+- Entornos sandbox y talleres
+- Espacios interactivos
+- Biblioteca de Constructores
+
+🛠️ Herramientas y recursos para desarrolladores y profesionales.
+
+¡Únete a la revolución de la nube! 🌎
+
+#AWS #InnovacionEnLaNube #DesarrolloWeb #ComunidadIT
+
+[Este post fue generado automáticamente con Amazon Bedrock IA – Fuente: https://aws.amazon.com/blogs/aws/feed/]
+
+_Este post fue generado automáticamente usando AWS Lambda + Amazon Bedrock + GitHub Actions._
