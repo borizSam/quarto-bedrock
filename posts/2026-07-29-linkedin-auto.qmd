@@ -1,0 +1,18 @@
+---
+title: "AWS Weekly Roundup: One-click Lambda setup prompt, OpenAI GPT-5.6 models on Bedrock, and more (July 20, 2026)"
+date: "2026-07-29"
+categories: [AWS, DevOps, Automation, AI]
+---
+
+¡Grandes noticias para desenvolvedores!
+
+AWS lanza capacidades revolucionarias:
+- Configuración Lambda con un clic
+- Modelos OpenAI GPT-5.6 en Bedrock
+
+¡Productividad e innovación al máximo!
+#AWS #Lambda #OpenAI #GPT #IA #Nube
+
+[Este post fue generado automáticamente con Amazon Bedrock IA – Fuente: https://aws.amazon.com/blogs/aws/feed/]
+
+_Este post fue generado automáticamente usando AWS Lambda + Amazon Bedrock + GitHub Actions._
