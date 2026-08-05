@@ -1,0 +1,21 @@
+---
+title: "Amazon DynamoDB now supports real-time vector search at any scale"
+date: "2026-08-05"
+categories: [AWS, DevOps, Automation, AI]
+---
+
+¿Buscas una solución escalable para búsquedas vectoriales?
+
+💥 Amazon DynamoDB ahora admite búsquedas vectoriales en tiempo real a cualquier escala.
+
+✨ Latencia de un solo dígito milisegundos al 99% de recordación.
+🚀 Diseñado para cualquier escala, incluso trillones de vectores.
+☁️ Sin necesidad de gestión de infraestructura.
+
+¡Descubre las capacidades de búsqueda vectorial nativa de DynamoDB!
+
+#AmazonDynamoDB #VectorSearch #CloudComputing #BigData
+
+[Este post fue generado automáticamente con Amazon Bedrock IA – Fuente: https://aws.amazon.com/blogs/aws/feed/]
+
+_Este post fue generado automáticamente usando AWS Lambda + Amazon Bedrock + GitHub Actions._
