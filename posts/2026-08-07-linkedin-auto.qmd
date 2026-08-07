@@ -1,0 +1,22 @@
+---
+title: "AWS Weekly Roundup: Local Zone in Athens, Claude Opus 5 on AWS, Lambda durable execution for .NET, and more (July 27, 2026)"
+date: "2026-08-07"
+categories: [AWS, DevOps, Automation, AI]
+---
+
+¿Cansado de esperar actualizaciones? 🚀
+
+AWS trae lo último en innovación:
+
+✅ Nueva Zona Local en Atenas
+✅ Claude Opus 5 en AWS
+✅ Lambda durable para .NET
+
+¡Mantente al frente de la tecnología!
+Únete a la comunidad técnica vibrante.
+
+#AWSInnovation #TechCommunity #CloudComputing
+
+[Este post fue generado automáticamente con Amazon Bedrock IA – Fuente: https://aws.amazon.com/blogs/aws/feed/]
+
+_Este post fue generado automáticamente usando AWS Lambda + Amazon Bedrock + GitHub Actions._
