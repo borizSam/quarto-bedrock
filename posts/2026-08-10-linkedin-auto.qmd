@@ -1,0 +1,22 @@
+---
+title: "AWS Weekly Roundup: Price reduction of GPT models in Bedrock, CloudWatch managed collectors for Prometheus metrics, and more (August 3, 2026)"
+date: "2026-08-10"
+categories: [AWS, DevOps, Automation, AI]
+---
+
+¡Atención, amantes de la tecnología! 🚀
+
+AWS reduce los precios de los modelos GPT
+en Bedrock, ¡prepárense para una IA aún más accesible! 💥
+
+CloudWatch facilita la recopilación de métricas Prometheus,
+manteniendo tus sistemas bajo estricta vigilancia. 👀
+
+Descubre las últimas novedades de AWS
+y mantente a la vanguardia en el mundo de la nube. ☁️
+
+#AWS #Bedrock #CloudWatch #Prometheus #IA #NubeTecnologica
+
+[Este post fue generado automáticamente con Amazon Bedrock IA – Fuente: https://aws.amazon.com/blogs/aws/feed/]
+
+_Este post fue generado automáticamente usando AWS Lambda + Amazon Bedrock + GitHub Actions._
